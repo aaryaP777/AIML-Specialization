@@ -1,0 +1,5326 @@
+Skip to main content
+Google Classroom
+Classroom
+22-26 MLCR - AIML Spl
+22-26 MLCR - AIML Spl
+Stream
+Classwork
+People
+22-26 MLCR - AIML Spl 22-26 MLCR - AIML Spl
+22-26 MLCR - AIML Spl
+22-26 MLCR - AIML Spl
+Upcoming
+Woohoo, no work due soon!
+
+Announce something to your class
+
+Announcement: "MLCR-LabDataset"
+Ambreesh Pare
+Created 11:13 AM11:13 AM
+MLCR-LabDataset
+
+cisi.txt
+Text
+
+Add class comment…
+
+Material: "LAB-KNN"
+Ambreesh Pare posted a new material: LAB-KNN
+Created 10:56 AM10:56 AM
+5 class comments
+
+Announcement: "!pip install numpy pandas scikit-learn…"
+Ambreesh Pare
+Created 10:55 AM10:55 AM
+!pip install numpy pandas scikit-learn matplotlib seaborn
+
+Add class comment…
+
+
+Announcement: "Reminder !!! Continuous Assessment 1…"
+Vijayshri Khedkar
+Created Feb 8Feb 8 (Edited Feb 8)
+Reminder !!!
+Continuous Assessment 1
+will be taken today itself
+All students are hereby
+informed that CA-I of Machine Learning Clustering & Regression is scheduled on 8 February 2025 @ 11:30 am to 11:40 am
+
+Add class comment…
+
+
+Announcement: "Continuous Assessment 1 - Notice All…"
+Vijayshri Khedkar
+Created Feb 7Feb 7 (Edited Feb 7)
+Continuous Assessment 1 - Notice
+
+All students are hereby
+informed that CA-I of Machine Learning Clustering & Regression is scheduled on 8 February 2025 @ 10:50 am to 11:00 am (+ 5 mins considering network issues).
+
+
+1)     Syllabus: Unit I and Unit II.
+2)      Reporting time: 10:45 am
+3)     CA pattern: Online Quiz in laboratory
+4)      Venue: In respective lab as per regular timetable of the day
+5)     Carry fully charged laptop to appear for quiz. Make sure that you can access internet from your
+laptop using personal mobile data or institute Wi-Fi.
+6)      Online Quiz link will be shared in Moodle Classroom of respective course.
+7)     As it may not allow submission of quiz in last 2-3 minutes, make sure quiz is submitted well in advance before end time.
+8)      Use of any type of reference material (online/offline) is considered as malpractice.
+9)     If there is any mistake/query in any of the questions, please drop message. Decision about mistake/query will be informed only after careful checking.
+10)  There will not be any re-test for this CA. If you do not submit before deadline, you will be marked as absent without any reassessment.
+
+MLCR Th- Notice - CA -I.pdf
+PDF
+
+Add class comment…
+
+
+Announcement: "1NN-ipynb file"
+Ambreesh Pare
+Created Feb 1Feb 1
+1NN-ipynb file
+
+1-NN.ipynb
+Binary
+
+Add class comment…
+
+
+Announcement: "NN search lab"
+Ambreesh Pare
+Created Feb 1Feb 1
+NN search lab
+
+1NN_Search_Lab.docx
+Microsoft Word
+
+Add class comment…
+
+
+Announcement: "Ch-2 NN search PPT and Syllabus"
+Ambreesh Pare
+Created Feb 1Feb 1
+Ch-2 NN search PPT and Syllabus
+
+CH-2_NNSearch.pptx
+Microsoft PowerPoint
+
+CH2-Nearest Neighbour Search.docx
+Microsoft Word
+
+Add class comment…
+
+
+Announcement: "Lab1 ,PPT Ch-1"
+Ambreesh Pare
+Created Jan 31Jan 31
+Lab1 ,PPT Ch-1
+
+tst.ipynb
+Binary
+
+UseCase Clustering & Retrieval.docx
+Microsoft Word
+
+lab1-clustrer.ipynb
+Binary
+
+DATA PATTTERN.pptx
+Microsoft PowerPoint
+
+Add class comment…
+
+
+Announcement: "Type of data"
+Ambreesh Pare
+Created Jan 18Jan 18
+Type of data
+
+Types_of_Data_and_Clustering_Detailed.docx
+Microsoft Word
+
+Detailed Explanation of Types of Data and How to Handle Them in Clustering.docx
+Microsoft Word
+
+Types_of_Data_and_Clustering.docx
+Microsoft Word
+
+FindingGroupsinData.pdf
+PDF
+
+Add class comment…
+
+.I 1
+.T
+18 Editions of the Dewey Decimal Classifications
+.A
+Comaromi, J.P.
+.W
+   The present study is a history of the DEWEY Decimal
+Classification.  The first edition of the DDC was published
+in 1876, the eighteenth edition in 1971, and future editions
+will continue to appear as needed.  In spite of the DDC's
+long and healthy life, however, its full story has never
+been told.  There have been biographies of Dewey
+that briefly describe his system, but this is the first
+attempt to provide a detailed history of the work that
+more than any other has spurred the growth of
+librarianship in this country and abroad.
+.X
+1	5	1
+92	1	1
+262	1	1
+556	1	1
+1004	1	1
+1024	1	1
+1024	1	1
+.I 2
+.T 
+Use Made of Technical Libraries
+.A 
+Slater, M.
+.W
+This report is an analysis of 6300 acts of use
+in 104 technical libraries in the United Kingdom.
+Library use is only one aspect of the wider pattern of
+information use.  Information transfer in libraries is
+restricted to the use of documents.  It takes no
+account of documents used outside the library, still
+less of information transferred orally from person
+to person.  The library acts as a channel in only a
+proportion of the situations in which information is
+transferred.
+Taking technical information transfer as a whole,
+there is no doubt that this proportion is not the
+major one.  There are users of technical information -
+particularly in technology rather than science -
+who visit libraries rarely if at all, relying on desk
+collections of handbooks, current periodicals and personal
+contact with their colleagues and with people in other
+organizations.  Even regular library users also receive
+information in other ways.
+.X
+2	5	2
+32	1	2
+76	1	2
+132	1	2
+137	1	2
+139	1	2
+152	2	2
+155	1	2
+158	1	2
+183	1	2
+195	1	2
+203	1	2
+204	1	2
+210	1	2
+243	1	2
+371	1	2
+475	1	2
+552	1	2
+760	1	2
+770	1	2
+771	1	2
+774	1	2
+775	1	2
+776	1	2
+788	1	2
+789	1	2
+801	1	2
+815	1	2
+839	1	2
+977	1	2
+1055	1	2
+1056	1	2
+1151	1	2
+1361	1	2
+1414	1	2
+1451	1	2
+1451	1	2
+.I 3
+.T
+Two Kinds of Power
+An Essay on Bibliographic Control
+.A
+Wilson, P.
+.W
+    The relationships between the organization and control of writings
+and the organization and control of knowledge and information will
+inevitably enter our story, for writings contain, along with much else, a
+great deal of mankind's stock of knowledge and information.  Bibliographical
+control is a form of power, and if knowledge itself is a form of power,
+as the familiar slogan claims, bibliographical control is in a certain sense
+power over power, power to obtain the knowledge recorded in written
+form.  As writings are not simply, and not in any simple way, storehouses of
+knowledge, we cannot satisfactorily discuss bibliographical control as
+simply control over the knowledge and information contained in writings.
+.X
+3	7	3
+42	1	3
+172	1	3
+268	1	3
+292	1	3
+323	1	3
+360	1	3
+361	1	3
+444	1	3
+457	1	3
+665	1	3
+762	1	3
+803	1	3
+846	1	3
+907	2	3
+911	1	3
+985	1	3
+1219	1	3
+1268	1	3
+1309	1	3
+1402	2	3
+1426	1	3
+1426	1	3
+.I 4
+.T
+Systems Analysis of a University Library; 
+final report and research project
+.A
+Buckland, M.K.
+.W
+    The establishment of nine new universities in the 1960's provoked a highly 
+stimulating re-examination of the nature, purpose and management of academic
+libraries.  Long-established attitudes and methods were questioned, but
+although changes were made, the basic difficulty remained - a lack of objective
+information about the best ways of providing a library service in a university.
+The report of the UGC Committee on Libraries (the Parry Repot [267]), which,
+in general, endorsed these changes, also stressed the need for research into
+all aspects of academic library provision.
+.X
+4	10	4
+5	2	4
+9	1	4
+32	1	4
+65	1	4
+96	1	4
+137	1	4
+162	1	4
+163	1	4
+207	2	4
+245	1	4
+293	1	4
+298	1	4
+364	1	4
+418	1	4
+456	1	4
+580	1	4
+622	1	4
+696	1	4
+705	1	4
+728	1	4
+729	1	4
+766	1	4
+768	2	4
+770	1	4
+774	2	4
+776	1	4
+783	1	4
+786	1	4
+791	1	4
+799	1	4
+811	2	4
+816	2	4
+823	1	4
+842	1	4
+843	1	4
+844	1	4
+913	1	4
+915	1	4
+925	3	4
+959	1	4
+960	1	4
+961	3	4
+962	2	4
+964	2	4
+968	1	4
+981	1	4
+1068	1	4
+1069	1	4
+1070	1	4
+1203	1	4
+1214	1	4
+1321	1	4
+1400	1	4
+1407	1	4
+1445	1	4
+1445	1	4
+.I 5
+.T
+A Library Management Game:
+a report on a research project
+.A
+Brophy, P.
+.W
+    Although the use of games in professional education has
+become widespread only during the last decade, the method has
+been used in a number of fields for many hundreds of years.
+Its origins have been traced to simple war games, used in
+military training when the "real thing" was either unavailable
+or too dangerous.  In more recent times, these games have
+become more and more sophisticated, and many now use large
+electronic computers to handle the complex calculations involved.
+Since 1956, when the first well-developed management game was
+introduced, the technique has spread rapidly into a wide variety
+of disciplines and today it is used at all levels of education,
+from primary school classes to courses for experienced professional
+men and women.  One of the main causes of this "game explosion"
+has been the rapid development of sophisticated management
+techniques, such as simulation and mathematical modelling, which
+have been made possible by rapid advances in computer technology.
+.X
+4	2	5
+5	6	5
+90	1	5
+91	1	5
+115	1	5
+158	1	5
+207	1	5
+222	1	5
+223	1	5
+234	1	5
+245	2	5
+364	2	5
+365	1	5
+368	1	5
+435	1	5
+535	1	5
+553	1	5
+598	1	5
+615	1	5
+764	1	5
+766	1	5
+811	2	5
+815	1	5
+816	2	5
+818	1	5
+823	1	5
+842	1	5
+915	1	5
+925	2	5
+944	1	5
+948	1	5
+957	1	5
+959	1	5
+960	1	5
+961	2	5
+962	1	5
+964	1	5
+1023	2	5
+1219	1	5
+1227	1	5
+1257	1	5
+1365	1	5
+1390	1	5
+1400	1	5
+1400	1	5
+.I 6
+.T
+Abstracting Concepts and Methods
+.A
+Borko, H.
+.W
+     Graduate library school study of abstracting should be more than a 
+how-to-do-it course.
+It should include general material on the characteristcs and types of abstracts,
+the historical development of abstracting publications, the abstract-publishing
+industry (especially in the United States), and the need for standards in the
+preparation and evaluation of the product.
+These topics we call concepts.
+     The text includes a methods section containing instructions for writing
+various types of abstracts, and for editing and preparing abstracting publications.
+These detailed instructions are supplemented by examples and exercises in the
+appendix.
+There is a brief discussion of indexing of abstract publications.
+     Research on automation has been treated extensively in this work, for we
+believe that the topic deserves greater emphasis than it has received in the
+past.
+Computer use is becoming increasingly important in all aspects of librarianship.
+Much research effort has been expended on the preparation and evaluation of
+computer-prepared abstracts and extracts.
+Students, librarians, and abstractors will benefit from knowing about this
+research and understanding how computer programs were researched to analyze text,
+select key sentences, and prepare extracts and abstracts.
+The benefits of this research are discussed.
+    Abstracting is a key segment of the information industry.
+Opportunities are available for both full-time professionals and part-time or
+volunteer workers.
+Many librarians find such activities pleasant and rewarding, for they know
+they are contributing to the more effective use of stored information.
+One chapter is devoted to career opportunities for abstractors.
+.X
+6	6	6
+363	1	6
+403	1	6
+461	1	6
+551	1	6
+551	1	6
+.I 7
+.T
+Academic Library Buildings
+A Guide to Architectural Issues and Solutions
+.A
+Ellsworth, R.E.
+.W
+This book attempts to present representative examples of successful
+architectural solutions to the important problems librarians and
+architects face in planning new college and university library
+buildings or in remodeling and enlarging existing structures.  It does
+not attempt to make case study evaluations, as was done by
+Ellsworth Mason for Brown and Yale.  Nor does it present examples
+of unsuccessful solutions except to show how to avoid mistakes,
+and in these cases the libraries will not be identified.
+.X
+7	8	7
+240	1	7
+262	1	7
+353	1	7
+892	1	7
+1028	1	7
+1211	3	7
+1212	1	7
+1266	1	7
+1424	1	7
+1424	1	7
+.I 8
+.T
+The Academic Library Essays in Honor of Guy R. Lyle
+.A
+Farber, E.I.
+.W
+     As important for staff members' individual development
+as was the apprenticeship in administration, perhaps the most
+significant attitude one acquired while working for
+Guy was engendered by his insistence that librarians must
+be interested in and knowledgeable about the content of the
+materials with which they dealt.  His love of literature, his
+respect for scholarship, his admiration for good writing and
+reading were manifested in many ways, but most notably in
+his admonition that, though we were primarily a research
+library, we must constantly keep in mind our obligation to
+collect contemporary poetry, fiction and belles-letters.  It
+was primarily up to the library staff, he felt, to be
+responsible for these as well as for "general" books which crossed
+disciplinary lines or fell between the disciplines, those books
+which a faculty mostly concerned with research materials is
+apt to overlook.  And in building this portion of the collection,
+"there is no substitute for a thorough acquaintance with
+books through a reading of critical reviews and the books
+themselves."  This counsel is from The President, the Professor,
+and the College Library, but the importance of its thrust--the
+need to keep up with the world of books and publishing--was
+continually impressed upon us.
+.X
+8	5	8
+20	1	8
+171	1	8
+909	1	8
+918	1	8
+1061	1	8
+1453	1	8
+1453	1	8
+.I 9
+.T
+Access to Libraries in College
+.A
+Hyman, R.T.
+.W
+     This study assumed that an additional use study held
+less promise than an analytical consideration of concepts.
+The basic approach was a survey comparing traditional and
+current professional ideas on direct access.  Principal data-gathering
+instruments were documentary analysis and opinion questionnaire.
+     Findings of the documentary analysis included the following:
+     Research from 1890 to 1970 on the direct shelf approach
+and browsing left the problems largely unresolved and
+evidently resistant to established methods of use and user
+research.  The need for an exhaustive study of concepts was
+confirmed.
+     Open shelf libraries--organized through shelf classification
+and relative location--were meant to arouse the intellectual,
+social, and political interest of the average citizen and affect
+his democratic self-realization.
+     Definitions of "browsing" varied greatly: self-indulgence
+by the untutored in objectionable works; beneficial self-education
+for the general reader; valuable guidance for the scholar in his
+research.
+.X
+4	1	9
+9	5	9
+32	1	9
+96	1	9
+137	1	9
+163	1	9
+207	2	9
+222	1	9
+223	1	9
+296	1	9
+297	1	9
+298	1	9
+300	1	9
+301	1	9
+302	1	9
+358	1	9
+364	1	9
+456	1	9
+515	1	9
+535	1	9
+625	1	9
+629	1	9
+631	1	9
+634	1	9
+768	1	9
+774	1	9
+783	1	9
+791	1	9
+799	1	9
+811	2	9
+816	2	9
+818	1	9
+823	1	9
+843	1	9
+844	1	9
+846	1	9
+913	1	9
+915	1	9
+961	2	9
+962	2	9
+964	2	9
+968	1	9
+994	1	9
+1015	1	9
+1068	1	9
+1203	1	9
+1242	1	9
+1247	1	9
+1268	1	9
+1321	1	9
+1354	1	9
+1407	1	9
+1445	1	9
+1445	1	9
+.I 10
+.T
+Access to Periodical Resources
+.A
+Palmour, V.E.
+.W
+          The purpose of this study was to develop, evaluate,
+and recommend a national plan  for improving access to periodical
+resources.  About 48 percent of all academic interlibrary loans
+are for periodical materials, with the bulk of the loans being
+satisfied in the form of photocopies.  A major consideration in
+the long-range improvement of the interlibrary loan system is
+the possible augmentation with a national system for acquiring,
+storing, and satisfying loan requests for periodical materials.
+          This study focused on the physical access to the
+periodical literature.  Based on the needs of the library community,
+design features were developed, and included the following:
+          Service should be made available to all users
+          without any restriction other than access
+          through a library.
+          Initially, the service should be confined primarily
+          to rapid, dependable delivery of photocopies of
+          journal articles.
+          The collection of a center should be comprehensive
+          in subject coverage excluding only medicine.
+          All worthwhile journals should be collected
+          irrespective of language.
+.X
+10	12	10
+145	1	10
+167	1	10
+190	1	10
+225	1	10
+232	1	10
+244	1	10
+304	1	10
+305	1	10
+306	1	10
+358	1	10
+385	1	10
+394	1	10
+400	1	10
+433	1	10
+459	1	10
+534	1	10
+541	1	10
+551	2	10
+702	1	10
+731	1	10
+732	1	10
+788	1	10
+817	1	10
+820	1	10
+823	1	10
+825	1	10
+826	1	10
+827	1	10
+828	1	10
+831	1	10
+881	1	10
+886	1	10
+887	1	10
+919	1	10
+920	1	10
+921	1	10
+942	1	10
+947	2	10
+948	1	10
+1017	1	10
+1058	2	10
+1059	1	10
+1060	1	10
+1146	1	10
+1227	1	10
+1230	1	10
+1257	1	10
+1258	2	10
+1302	1	10
+1305	1	10
+1306	1	10
+1390	6	10
+1390	6	10
+.I 11
+.T
+The Acquisition of Library Materials
+.A
+Ford, S.
+.W
+  The scope of acquisitions work, outlined in the Introduction,
+acknowledges the importance of selection policy,
+serials recording, and other topics kindred to acquisitions.
+These topics are discussed in this book only as they relate
+to obtaining library materials.  They are examined thoroughly
+in books and papers that are cited in the references and the
+bibliographic note.
+  Centralized acquisitions and automation of order routines are of
+major importance in order work and they are reviewed as chapters in
+this book.  These chapters are introductions to the concepts and
+problems of centralization and automation, not manuals of practice.
+For treatment of these topics in particular and in depth the reader is
+referred to the references cited.  For automation these references
+are only a modest selection from an enormous literature.
+.X
+11	5	11
+143	1	11
+242	1	11
+268	1	11
+305	1	11
+1020	1	11
+1021	1	11
+1058	1	11
+1322	2	11
+1322	2	11
+.I 12
+.T
+Acquisition from the 3rd World
+.A
+Clarke, D.A.
+.W
+  The Ligue des bibliotheques europeennes de recherche (LIBER) was set up
+in 1971 as an international non-governmental organization, with the aim of
+establishing close collaboration between the general research libraries of
+Western Europe, particularly national and university libraries, and in
+particular to help in finding practical ways of improving the quality of
+the services these libraries provide.
+  At the second meeting of its General Assembly, held in Luxembourg in 1972,
+LIBER decided to hold a seminar on the acquisition of materials from the
+'Third World'; and I was charged with the 'intellectual organization' of this
+seminar.  The purpose of the meeting would be to examine the problems of
+acquisition; the availability of materials in European libraries both for
+reference and for lending; and the feasibility of setting up a European centre
+for the collection of such material, to be available for loan.  The provision
+of bibliographic information, preferable in machine-readable form, was to be
+a basic consideration, whatever means were proposed for acquiring publications
+from those areas.  The Council of Europe made a generous grant towards the
+cost of the seminar which was held at the University of Sussex from 17 to 19
+September 1973.
+.X
+12	8	12
+12	8	12
+.I 13
+.T
+AD695049
+.A
+Wooster, H.
+.W
+I am not, nor have I ever pretended to be, an expert on
+microfiche.  Nevertheless, when I was invited to address the
+Third Annual Northeastern DDC/Industry Users Conference in
+Waltham, Massachusetts in April of 1968 I had the temerity to
+attempt to describe what I as a user would like to have in a
+fiche reader.  ("Towards a Uniform Federal Report Numbering
+System and a Cuddly Microfiche Reader--Two Modest Proposals."
+Revised September 1968.  AD-669204)
+.X
+13	5	13
+24	1	13
+66	1	13
+76	1	13
+121	1	13
+152	1	13
+213	1	13
+245	1	13
+286	1	13
+465	1	13
+466	1	13
+475	1	13
+664	1	13
+720	1	13
+783	1	13
+837	1	13
+839	1	13
+907	1	13
+914	1	13
+968	1	13
+1362	1	13
+1363	1	13
+1363	1	13
+.I 14
+.T
+The Administration of the College Library
+.A
+Lyle, G.R.
+.W
+  If this book has a central thesis, it rests upon the simple but
+frequently neglected principle that college library service goes
+beyond the commonly accepted functions of book circulation and
+storage.  The college library exists, not merely to house and
+circulate library materials, but to supplement and extend the teaching
+process with reference service, to afford faculty members library
+opportunities for improving instruction, and to encourage students
+to read more and better books.  Administration is essentially a
+service activity, a tool through which library functions are more
+fully and efficiently realized.
+  The present work retains most of the material of the first edition,
+but includes substantial revision in each chapter.  The book was
+planned not only as a text in the teaching of college library
+administration but also for independent professional reading.  Because
+readers have found the footnotes and chapter bibliographies useful
+for reference purposes, they have been brought up to date and in
+some cases extended.
+.X
+14	6	14
+132	1	14
+137	1	14
+153	1	14
+170	1	14
+223	1	14
+237	1	14
+266	1	14
+271	1	14
+272	1	14
+302	1	14
+550	1	14
+767	1	14
+772	1	14
+952	1	14
+1019	1	14
+1028	1	14
+1030	1	14
+1086	1	14
+1090	1	14
+1275	1	14
+1280	1	14
+1424	3	14
+1424	3	14
+.I 15
+.T
+Information Flow in Research and Development Laboratories
+.A
+Allen, Thomas J.
+Cohen, Stephen I.
+.W
+   Technical communication patterns in two research and development laboratories
+were examined using modified sociometric techniques.. The structure of 
+technical communication networks in the two laboratories results from the 
+interaction of both social relations and work structure.. The sociometric 
+"stars" in the technical communication network who provide other members of the
+organization with information either make greater use of individuals outside
+the organization or read the literature more than other members of the 
+laboratory..
+.X
+15	10	15
+32	1	15
+102	1	15
+103	1	15
+105	2	15
+139	1	15
+152	1	15
+313	2	15
+356	1	15
+447	1	15
+449	1	15
+475	1	15
+560	1	15
+574	1	15
+592	1	15
+625	1	15
+658	1	15
+803	1	15
+1036	1	15
+1048	1	15
+1186	2	15
+1187	1	15
+1188	1	15
+1235	1	15
+1291	1	15
+1319	1	15
+1321	1	15
+1329	1	15
+1333	1	15
+1386	1	15
+1387	1	15
+1408	2	15
+1408	2	15
+.I 16
+.T
+Adopting the Library of Congress Classification System
+.A
+Matthis, R.E.
+.W
+     This manual is designed to make it possible for any library to change
+efficiently to the Library of Congress Classification system.  Detailed
+procedures are outlined which may serve as exact models or as a series of
+suggested steps which have proven effective in actual use.  Most of the text
+deals with the necessary criteria for effecting the planning, making the
+preparations, selecting the tools, and establishing the procedures which
+are essential for a reclassification project.  Beyond this, considerable
+attention has been given to many of the problem areas of the LC
+Classification-series, biography, bibliography, law, PZ3 and PZ4.  In
+addition, the literature Tables VIIIa and IXa, two of the most
+frequently used tables throughout the entire class system, have been
+thoroughly explained and their application illustrated by a series of
+comprehensive examples.  Since the mechanics, production, and cost of
+catalogue card copy can significantly affect the flow of books to users,
+a chapter has been devoted to describing the use of Xerox copying
+machines in library operations.  Finally, an annotated bibliography
+of books and articles judged to be helpful in deciding to reclassify is
+included for those readers who wish to delve more deeply into the
+tortuous and frustrating 50-year history of the concept of centralized
+cataloging and classification.  The numbers enclosed in parentheses
+throughout the text refer to sources in the bibliography which relate
+to or support the arguments being advanced in any particular case.
+.X
+16	6	16
+154	1	16
+235	1	16
+250	1	16
+289	1	16
+404	1	16
+796	1	16
+802	1	16
+838	1	16
+861	1	16
+863	2	16
+864	1	16
+897	1	16
+989	1	16
+1152	1	16
+1392	1	16
+1431	1	16
+1431	1	16
+.I 17
+.T
+Adventures in Librarianship
+.A
+Voigt, M.J.
+.B
+1970
+.W
+  There has long been a need for a continuing series to provide
+scholarly reviews of the rapidly changing and advancing field of
+librarianship, a series which would select subjects with particular
+current significance to the profession and provide an analysis of
+the advances made through research and practice.  Advances in
+Librarianship is planned and designed to fill this need.  It will
+present critical articles and surveys based on the published literature,
+research in progress, and developments in libraries of all types.
+   Mechanization may appear to be the most obvious of the advancing fronts
+of librarianship, for automation has caught the enthusiastic support of all
+librarians who can visualize its potential.
+Advances in this field will certainly be found in every volume of this series.
+As the first group of articles in this volume demonstrate, technological change
+has an obvious and direct implication for libraries, but the problem has been
+found to be much more complex than the simple inventory problem many experts
+expected.
+Advances in Librarianship is dedicated to presenting the realities of
+automation, assessing where we are, where we are going, and how fast we can hope
+to get there.
+"The Machine and Cataloging" reviews the current status of the machine-produced
+book catalog and what lies ahead as we enter the age of MARC.
+Where business methods have greater applicability, progress is easier, as
+reported in "Mechanization of Acquisition Processes."
+Even in this area generally acceptable practices and standardization are in the
+future, not the past.
+One of the problems of major and immediate importance in computerization of
+catalog information is that discussed in "Filing Systems for Computer
+Manipulation."
+This detailed review presents the complexity of the problems and suggests
+possible solutions.
+   For many years technical service costs have been defended without adequate
+knowledge of the facts.
+As automated procedures are proposed, standards are determining costs of
+traditional operations become essential.
+The article on standards for such costs shows why the problems have been difficult
+and reviews the significant advances of the past few years.
+   The school library has widened its dimensions in materials and services much
+more rapidly than other libraries, as reflected in its new name, the
+instructional media center.
+Here, technical change, together with new teaching methods, has made possible
+major developments in library service in schools as well as for children in
+the public library.
+Two articles make clear that what can be done has been demonstrated, and that
+what remains is to make this the rule rather than the exception.
+   Bibliotherapy is an example of a field in which progress has been slow.
+   Articles which illustrate the potential which systems theory and managerial
+planning theory have for libraries.
+The articles on the application of these concepts, which come from research in
+administration, are provocative and may appear controversial to some.
+   The article on library development in developing countries provides an
+analysis in depth of our efforts and degree of success in assisting other
+countries in providing the library service which is so important in the modern
+world.
+.X
+17	6	17
+17	6	17
+.I 18
+.T
+Selective Dissemination of Information
+.A
+Mauerhoff, G.R.
+.B
+1974
+.W
+  The present contribution does not duplicate previous studies but
+complements the earlier publications and closes the few gaps that
+exist in the literature prior to 1966 and after 1971.  Additionally,
+it is a bold attempt to evaluate critically and objectively the history
+of the mechanized selective dissemination of information (SDI) as
+reflected in the literature, from the initial description by Luhn
+(1958, 1961b, c) to the post-1970 period when the SDI boom began losing
+ground to the more popular on-line interactive systems.  The review
+therefore questions and interprets the concept of SDI, its implementation,
+and its evolution in the light of work performed by many companies,
+government agencies, universities, societies, and libraries during the
+last fourteen years.
+.X
+18	7	18
+34	1	18
+49	1	18
+53	1	18
+59	1	18
+121	1	18
+125	2	18
+127	4	18
+129	2	18
+145	5	18
+164	1	18
+202	1	18
+211	1	18
+213	1	18
+224	1	18
+243	1	18
+357	1	18
+376	2	18
+378	1	18
+408	1	18
+421	1	18
+440	1	18
+452	1	18
+453	1	18
+459	3	18
+465	1	18
+466	1	18
+467	1	18
+468	1	18
+490	1	18
+491	1	18
+495	1	18
+506	2	18
+507	1	18
+508	1	18
+510	1	18
+511	1	18
+512	2	18
+514	1	18
+517	1	18
+520	1	18
+521	1	18
+523	1	18
+524	2	18
+525	1	18
+526	1	18
+527	1	18
+528	1	18
+529	1	18
+530	1	18
+534	1	18
+576	1	18
+580	1	18
+591	1	18
+595	1	18
+603	1	18
+604	2	18
+609	1	18
+612	1	18
+619	1	18
+622	2	18
+623	2	18
+629	2	18
+631	1	18
+632	1	18
+633	3	18
+635	1	18
+636	1	18
+637	1	18
+639	1	18
+642	1	18
+659	1	18
+676	1	18
+699	1	18
+700	1	18
+702	1	18
+703	1	18
+705	1	18
+707	1	18
+711	1	18
+722	1	18
+723	2	18
+726	2	18
+727	1	18
+728	2	18
+729	1	18
+730	4	18
+731	2	18
+732	2	18
+733	1	18
+734	1	18
+736	1	18
+754	1	18
+809	1	18
+810	1	18
+812	1	18
+813	2	18
+814	2	18
+820	2	18
+822	2	18
+826	1	18
+827	1	18
+828	1	18
+866	1	18
+870	2	18
+873	1	18
+877	1	18
+879	2	18
+1078	1	18
+1089	1	18
+1091	2	18
+1143	3	18
+1264	1	18
+1283	1	18
+1298	1	18
+1299	1	18
+1302	1	18
+1303	1	18
+1363	1	18
+1366	2	18
+1367	2	18
+1368	2	18
+1370	1	18
+1372	1	18
+1383	1	18
+1396	5	18
+1396	5	18
+.I 19
+.T
+Adventures in Theory of Languages
+.A
+Herdan, G.
+.W
+  In trying to give an account of the statistical properties of
+language, one is faced with the problem of having to find the
+common thread which would show the many and multifarious forms
+of language statistics - embodied in scattered papers written
+by linguists, philosophers, mathematicians, engineers, each using
+his own professional idiom as belonging to one great whole:
+quantitative linguistics.
+  The book stresses the peculiarity of statistics of language
+structure as against just conventional statistics.  To put the
+difference between two types of statistics briefly, the latter comprises
+the methods and parameters of general number statistics as applied, e.g., in
+Economics and Demography, the former has its own methods and characterising
+parameters, particularly useful for describing and evaluating language
+structure.  The idea of statistical linguistics as using concepts and
+methods of its own, which was adumbrated in the author's "Language as
+choice and Chance", 1956, has now taken definite shape.
+  Of this development I shall try to give a brief account.  In my book,
+"Language as Choice and Chance", the foundation was laid for a truly
+sensible application of statistics to language by my interpretation
+of the langue-parole dichotomy as being essentially that between statistical
+universe and sample.
+.X
+19	7	19
+37	1	19
+39	1	19
+40	1	19
+44	1	19
+47	1	19
+88	1	19
+97	1	19
+102	1	19
+103	1	19
+228	2	19
+229	1	19
+233	1	19
+253	1	19
+313	1	19
+318	1	19
+321	2	19
+324	1	19
+329	2	19
+359	1	19
+377	1	19
+379	1	19
+395	1	19
+416	2	19
+441	1	19
+442	1	19
+450	1	19
+495	1	19
+505	1	19
+511	1	19
+521	1	19
+524	1	19
+560	1	19
+563	1	19
+565	1	19
+567	1	19
+573	1	19
+592	1	19
+618	1	19
+632	1	19
+635	1	19
+667	1	19
+700	1	19
+748	1	19
+749	1	19
+751	1	19
+764	1	19
+765	1	19
+777	1	19
+778	1	19
+782	1	19
+791	1	19
+804	1	19
+805	1	19
+835	1	19
+851	1	19
+862	1	19
+875	1	19
+893	1	19
+952	1	19
+1016	1	19
+1061	1	19
+1085	1	19
+1086	1	19
+1087	1	19
+1182	1	19
+1194	1	19
+1199	2	19
+1200	1	19
+1274	1	19
+1277	1	19
+1278	1	19
+1280	1	19
+1287	1	19
+1301	1	19
+1302	1	19
+1304	1	19
+1313	1	19
+1338	1	19
+1344	1	19
+1347	1	19
+1380	1	19
+1428	1	19
+1444	1	19
+1444	1	19
+.I 20
+.T
+The Age of Jewett: Charles Coffin Jewett and American Librarianship
+1841-1868
+.A
+Harris, M.M.
+.W
+     Most librarians mark the beginning of modern librarianship
+from the founding of the American Library Association in 1876 and
+the appearance on the national library scene of such dynamic and
+controversial figures as Melvil Dewey and Charles Ammi Cutter.
+     But in doing so, they overlook an extremely significant era in
+the history of our profession, for the quarter century preceding the
+1876 meeting in Philadelphia was one characterized by great advances
+in the field of American librarianship.  This period of growth was to
+have considerable influence on the course of library development in
+America after 1876.  To ignore the third quarter of the nineteenth
+century is to risk misinterpreting the pivotal post-1876 era,
+and in this time of reappraisal, it seems particularly appropriate
+and useful to focus our attention on the years preceding the founding
+of the American Library Association.
+.X
+8	1	20
+20	6	20
+42	1	20
+60	1	20
+85	1	20
+129	1	20
+171	1	20
+172	1	20
+237	1	20
+469	1	20
+585	1	20
+599	1	20
+640	1	20
+652	1	20
+665	1	20
+762	1	20
+803	1	20
+909	1	20
+918	1	20
+1022	1	20
+1045	1	20
+1061	1	20
+1268	1	20
+1453	2	20
+1453	2	20
+.I 21
+.T
+On Aggression
+.A
+Lorenz, K.
+.W
+  In this book, Lorenz deals with the evolution of aggression
+in vertebrates.  He points out that aggressivity is totally different
+from predation: that it is a biological necessity for defence of
+territory and for a cornered animal, and that it becomes mixed
+up with other innate drives, thus leading up towards reduction
+of intraspecific damage. This, be it noted, is most evident in
+fiercer social predators like wolves, where escape from the pack
+is virtually impossible and where co-operation without fighting
+is necessary for survival; whereas in the non-social but proverbially
+peaceful dove prevention of escape leads to violent and often
+fatal attacks on the weaker mate.
+  In a final chapter he advances some suggestion as to how in
+the human species, where evolution is primarily cultural, and
+not guided by Darwinian selection in the strict sense, the
+aggressive drive may be canalized into less dangerous channels.
+Man has innumerable ways of adaptively ritualizing his behavior,
+many of them analogous, if not homologous, to those found in
+animals.  In any event, On Aggression is a fascinating book by
+a master of his subject.
+.X
+21	6	21
+118	2	21
+168	1	21
+902	1	21
+1034	2	21
+1329	1	21
+1386	1	21
+1399	1	21
+1399	1	21
+.I 22
+.T
+Education and Manpower for Librarians
+.A
+Asheim, L.E.
+.W
+  This paper is not an official policy statement
+of the American Library Association nor
+of the Office for Library Education.  It is
+simply an exploration, an outline of possibilities
+for consideration by the profession.  Its purpose is 
+to generate discussion that will lead
+eventually to a statement of Association policy
+that the profession will support and make
+effective.
+  A basic assumption on which the statement
+rests is this: that the library occupation is
+much broader than that segment of it which is
+the library profession, but that the professional
+segment has responsibility for the definition
+and supervision of the training and education
+required by the complete range of activities
+encompassed by the occupation.  Librarians
+are not the only persons who work in
+libraries, but librarians are the ones who are
+concerned with the advancement and improvement
+of the library profession.  It follows then
+that it is the obligation of the professionals
+to engage actively in the establishment and
+maintenance of standards and norms governing
+the preparation of people who work at
+any level in libraries.  They should define and
+guide the kinds of preparation most useful at
+the pre-professional level and not
+merely the education of those who will hold
+positions at the level we now call "professional."
+.X
+22	11	22
+60	1	22
+230	1	22
+272	2	22
+371	1	22
+908	1	22
+934	1	22
+954	1	22
+1005	1	22
+1148	1	22
+1227	1	22
+1423	1	22
+1423	1	22
+.I 23
+.T
+Pilot Inventory of Library Holdings
+.A
+Braden, I.A.
+.W
+This project was undertaken because of the
+high degree of uncertainty among the library
+staff regarding the extent of the problem of
+missing books.  The findings of this study gave
+the Ohio State University libraries concrete
+evidence as to how many books are missing
+and indicated the areas in which book losses
+are the greatest.  These figures also provide
+information which can be conveyed to the
+faculty or administration when they voice
+complaints about the unavailability of library
+books.  The areas where losses are high also
+tend to indicate the areas of most frequent
+use.
+.X
+23	5	23
+23	5	23
+.I 24
+.T
+Libraries and Technological Forces Affecting Them
+.A
+Cuadra, C.A.
+.W
+1.  What do we mean by technology and what kind of technological forces are
+we concerned with?
+2.  Why is it important to be concerned with technology in thinking about the
+future of libraries?
+3.  What kinds of technology are particularly important for libraries?
+4.  How can this technology be applied today?
+5.  What can we foresee for the future, as we move toward the year 2000?
+6.  What, if anything, should we do tomorrow to try to get from here to here?
+.X
+13	1	24
+24	5	24
+62	1	24
+65	1	24
+66	1	24
+74	1	24
+75	3	24
+76	1	24
+78	1	24
+80	1	24
+119	1	24
+122	1	24
+137	1	24
+177	1	24
+210	1	24
+245	1	24
+278	1	24
+279	1	24
+280	1	24
+281	2	24
+336	2	24
+386	1	24
+395	1	24
+398	1	24
+658	1	24
+684	1	24
+716	1	24
+748	1	24
+782	1	24
+788	1	24
+789	1	24
+835	1	24
+837	1	24
+849	1	24
+850	1	24
+851	1	24
+852	1	24
+853	1	24
+854	1	24
+855	1	24
+907	1	24
+925	1	24
+955	1	24
+984	1	24
+1011	2	24
+1083	1	24
+1361	1	24
+1400	1	24
+1404	1	24
+1451	1	24
+1451	1	24
+.I 25
+.T
+Algebraic Systems
+.A
+Maltsev, A.I.
+.W
+   As far back as the 1920's, algebra had been accepted as the science
+studying the properties of sets on which there is defined a particular
+system of operations.  However up until the forties the overwhelming
+majority of algebraists were investigating merely a few kinds of algebraic
+structures.  These were primarily groups, rings and lattices.  The first
+general theoretical work dealing with arbitrary sets with arbitrary
+operations is due to G. Birkhoff (1935).  During these same years, A.
+Tarski published an important paper in which he formulated the basic
+principles of a theory of sets equipped with a system of relations.  Such
+sets are now called models.  In contrast to algebra, model theory made
+abundant use of the apparatus of mathematical logic.  The possibility of
+making fruitful use of logic not only to study universal algebras but
+also the more classical parts of algebra such as group theory was
+discovered by the author in 1936.
+  During the next twenty-five years, it gradually became clear that the
+theory of universal algebras and model theory are very intimately
+related despite a certain difference in the nature of their problems.  And
+it is therefore meaningful to speak of a single theory of algebraic systems
+dealing with sets on which there is defined a series of operations and
+relations (algebraic systems). The formal apparatus of the theory is the
+language of the so-called applied predicate calculus.  Thus the theory can
+be considered to border on logic and algebra.
+.X
+25	7	25
+455	1	25
+1117	3	25
+1118	1	25
+1119	2	25
+1133	1	25
+1137	1	25
+1140	1	25
+1141	1	25
+1224	1	25
+1409	1	25
+1409	1	25
+.I 26
+.T
+Indexing and Abstracting by Association
+.A
+Doyle, L.B.
+.W
+This article discusses the possibility of exploiting the
+statistics of word co-occurrence in text for purposes of
+document retrieval. Co-occurrence is defined and related
+to the mental processes of authors and readers; several
+means of quantitative measurement of word co-occurrence
+are then scrutinized.  It is shown that the most
+strongly co-occurring word pairs, which are therefore
+"associated" in a statistical sense, can be represented
+in the form of an "association map."  The last half of the
+article presents two modes of use of association maps
+in literature searching.
+.X
+26	10	26
+35	1	26
+45	1	26
+51	1	26
+78	1	26
+174	1	26
+175	2	26
+176	1	26
+309	1	26
+315	2	26
+328	2	26
+419	3	26
+420	2	26
+421	1	26
+422	1	26
+479	1	26
+484	1	26
+485	1	26
+499	1	26
+562	3	26
+564	2	26
+565	2	26
+566	1	26
+571	1	26
+577	1	26
+660	3	26
+661	1	26
+662	4	26
+663	2	26
+664	4	26
+666	1	26
+769	1	26
+812	1	26
+824	1	26
+1118	1	26
+1144	1	26
+1232	1	26
+1279	1	26
+1381	1	26
+1382	2	26
+1385	1	26
+1427	1	26
+1427	1	26
+.I 27
+.T
+Cost Analysis and Simulation Procedures for the Evaluation
+of Large Information Systems
+.A
+Bourne, C.P.
+Ford, D.F.
+.W
+A computer program has been written and used which
+simulates the several-year operation of an information
+system and computes estimates of the expected
+operating costs as well as the amount of equipment
+and personnel required during that time period.  The
+program has been used for the analysis of several
+large systems and has proven itself to be a useful
+research tool for the study of systems with so many
+components and interrelated operations that an
+equivalent manual analysis would be extremely
+cumbersome and time consuming,and perhaps even
+impractical. This paper describes this program and
+shows, as an example, some of the results of a simulation
+of two of several suggested designs for a specific
+information system.
+.X
+27	5	27
+67	1	27
+74	1	27
+83	1	27
+158	1	27
+211	1	27
+324	1	27
+474	1	27
+490	1	27
+491	1	27
+492	1	27
+495	1	27
+496	1	27
+497	1	27
+584	1	27
+591	1	27
+976	1	27
+976	1	27
+.I 28
+.T
+A Note on the Pseudo-Mathematics of Relevance
+.A
+Taube, M.
+.W
+  Recently a number of articles, books, and reports
+dealing with information systems, i.e., document retrieval
+systems, have advanced the doctrine that such systems
+are to be evaluated in terms of the degree or percentage
+of relevancy they provide.
+  Although there seems to be little agreement on what
+relevance means, and some doubt that it is quantifiable,
+there is, nevertheless, a growing agreement that a fixed
+and formal relationship exists between the relevance and
+the recall performance of any system.  Thus, we will find
+in the literature both a frankly subjective notion of 
+relevance as reported by individual users, and equations,
+curves, and mathematical formulations which presumably provide
+numerical measures of the recall and relevance
+characteristics of information systems.  This phenomenon
+of shifting back and forth from an admittedly subjective
+and non-mathematical term to equations in which the
+same term is given a mathematical value or a mathematical
+definition has its ancient parallel in discussions
+of probability.  One cannot, of course, legislate the
+meaning of a term.  It all depends, as Alice pointed out,
+on "who is master," the user or the term.  On the other hand,
+the use of a single term in the same document to cover
+two or more distinct meanings, especially when such a
+usage is designed to secure the acceptance of a doctrine
+by attributing to it mathematical validity which it does
+not have, represents a more serious situation than merely
+careless ambiguity.
+.X
+28	5	28
+42	1	28
+43	1	28
+45	1	28
+72	1	28
+79	1	28
+133	1	28
+134	1	28
+157	1	28
+381	1	28
+389	1	28
+390	1	28
+468	1	28
+486	2	28
+487	1	28
+514	1	28
+518	1	28
+564	1	28
+565	2	28
+595	1	28
+615	1	28
+646	1	28
+661	1	28
+663	1	28
+714	1	28
+752	1	28
+785	1	28
+820	1	28
+822	1	28
+827	1	28
+829	1	28
+853	1	28
+895	1	28
+1091	1	28
+1282	1	28
+1282	1	28
+.I 29
+.T
+Some Questions Concerning "Information Need"
+.A
+O'Connor, J.
+.W
+The expression "satisfying a requester's information
+need" is often used, but its meaning is obscure.  The
+literature on "information need" in relation to
+retrieval suggests three different (though not inconsistent)
+possible interpretations.  However, each of these
+interpretations is itself fundamentally unclear. The
+various obscurities involved are indicated by critical
+questions, which those who write of information need
+are invited to answer.
+.X
+29	5	29
+35	1	29
+42	1	29
+43	1	29
+58	3	29
+66	1	29
+68	1	29
+69	1	29
+70	1	29
+84	1	29
+95	1	29
+165	1	29
+175	1	29
+261	1	29
+274	1	29
+346	1	29
+382	1	29
+444	1	29
+445	2	29
+447	1	29
+449	1	29
+451	2	29
+458	1	29
+474	1	29
+475	1	29
+476	1	29
+477	1	29
+478	1	29
+479	1	29
+480	1	29
+484	1	29
+485	1	29
+486	1	29
+532	1	29
+566	1	29
+590	1	29
+609	1	29
+625	1	29
+656	1	29
+660	1	29
+680	1	29
+689	1	29
+704	1	29
+762	2	29
+764	1	29
+781	1	29
+814	1	29
+893	1	29
+901	1	29
+967	2	29
+1016	1	29
+1030	1	29
+1038	1	29
+1045	1	29
+1077	1	29
+1084	1	29
+1094	1	29
+1118	1	29
+1175	1	29
+1195	1	29
+1201	1	29
+1231	1	29
+1235	1	29
+1281	2	29
+1285	1	29
+1358	1	29
+1358	1	29
+.I 30
+.T
+Vocabulary Building and Control Techniques
+.A
+Wall, Eugene
+.W
+   The rationale is given for creation and maintainance by an information 
+center of a controlled indexing and retrieval vocabulary.. Basic vocabulary
+principles are (1) use of natural language, (2) development of hospitality
+to new concepts, (3) provision of adequate cross-referencing, and (4)
+formatting for easy use.. Terminalogical conventions necessary for development
+and control of a useful vocabulary are summarized, and the techniques for 
+applying these conventions to construct a thesaurus are described.. 
+Computerized editing techniques and updating techniques are briefly set forth..
+.X
+30	5	30
+71	1	30
+75	1	30
+77	1	30
+78	1	30
+79	1	30
+80	1	30
+81	1	30
+82	1	30
+83	1	30
+154	1	30
+176	1	30
+179	1	30
+212	1	30
+247	1	30
+363	1	30
+419	1	30
+434	1	30
+483	1	30
+581	1	30
+661	1	30
+666	1	30
+838	1	30
+853	1	30
+1118	1	30
+1327	1	30
+1393	1	30
+1414	1	30
+1431	1	30
+1448	1	30
+1448	1	30
+.I 31
+.T
+Attendance and Use of the Science Library at M.I.T.
+.A
+Bush, G.C.
+Galliher, H.P.
+Morse, P.M.
+.W
+This is an interim report on continuing
+studies of library operations at Massachusetts
+Institute of Technology being made by
+members of the Institute's Operations Research
+Project in cooperation with the librarians and
+library staff.  In this report, which is based
+on actual observations of on-the-premise use
+made of the Science Library, various statistics
+measuring the kind, degree, and intensity of use
+are tabulated.  In addition there are some
+suggested measures of effectiveness of the library.
+A unique outcome of the survey has been the
+construction and verification of a mathematical
+model employing probability theory to measure
+rate and kind of use of library material
+together with length of stay of library patrons.
+Such models, characteristic of an operations
+research approach, give promise of furthering
+the goal of effective library management and
+planning.
+.X
+31	5	31
+36	1	31
+41	1	31
+46	3	31
+181	1	31
+182	1	31
+183	2	31
+184	1	31
+193	2	31
+195	1	31
+198	1	31
+201	3	31
+206	1	31
+207	1	31
+208	1	31
+266	1	31
+269	2	31
+359	1	31
+373	1	31
+379	1	31
+395	1	31
+415	1	31
+475	1	31
+748	1	31
+760	1	31
+767	2	31
+774	1	31
+778	2	31
+891	1	31
+905	1	31
+925	1	31
+952	1	31
+953	1	31
+964	2	31
+968	1	31
+977	1	31
+1009	1	31
+1018	1	31
+1019	2	31
+1086	1	31
+1173	1	31
+1203	2	31
+1240	1	31
+1352	1	31
+1359	1	31
+1397	1	31
+1417	1	31
+1451	1	31
+1451	1	31
+.I 32
+.T
+Information Gathering Patterns and Creativity
+A study of research chemists in an industrial research laboratory
+.A
+Maizell, Robert E.
+.W
+   A comparison of creative and "noncreative" research chemists with 
+respect to the ways in which they use their professional and technical 
+literature.. The creative chemists differ from the "noncreative" in that the
+former read more technical literature on the job, are less reluctant to use 
+literature of greater reading difficulty, are less influenced in their 
+independence of thought, read more extensively and consult more frequently the
+older material, are more inquisitive and have broader cultural interests.. The
+findings of the study are believed to be helpful in planning library and 
+information services, in refining future inquiries into the ways in which
+scientists use recorded information, and in improving tests for the 
+identification of creative ability among chemists..
+.X
+2	1	32
+4	1	32
+9	1	32
+15	1	32
+32	5	32
+96	1	32
+103	2	32
+137	1	32
+163	1	32
+207	1	32
+255	1	32
+456	1	32
+475	1	32
+592	1	32
+716	1	32
+768	1	32
+771	1	32
+774	1	32
+783	1	32
+799	1	32
+811	1	32
+816	1	32
+913	1	32
+961	1	32
+962	1	32
+964	1	32
+968	1	32
+1068	1	32
+1151	1	32
+1203	1	32
+1291	1	32
+1321	1	32
+1339	1	32
+1361	1	32
+1407	1	32
+1445	1	32
+1445	1	32
+.I 33
+.T
+The "Half-Life" of Some Scientific and Technical Literatures
+.A
+Burton, R.E.
+.A
+Kebler, R.W.
+.W
+   A consideration of the analogy between the half-life of radioactive 
+substances and the rate of obsolescence of scientific literature.. The validity 
+of this analogy suggest the possibility of more accurate prognostications
+concerning the period of time during which scientific literature may by used 
+and hence might help to guide the planning of library collections and 
+technical information services..
+.X
+33	19	33
+36	2	33
+41	1	33
+46	1	33
+48	2	33
+89	1	33
+90	1	33
+97	1	33
+101	1	33
+102	1	33
+104	1	33
+105	1	33
+106	2	33
+107	1	33
+111	2	33
+112	1	33
+155	2	33
+161	1	33
+163	1	33
+183	2	33
+184	2	33
+193	2	33
+198	1	33
+199	2	33
+201	1	33
+202	1	33
+203	2	33
+204	1	33
+205	1	33
+209	1	33
+210	1	33
+212	1	33
+217	1	33
+220	1	33
+222	1	33
+225	1	33
+233	1	33
+267	1	33
+269	1	33
+284	1	33
+286	1	33
+294	1	33
+314	1	33
+361	1	33
+367	1	33
+373	2	33
+543	1	33
+544	1	33
+545	2	33
+552	1	33
+560	1	33
+587	2	33
+588	1	33
+605	2	33
+613	2	33
+614	3	33
+616	1	33
+624	1	33
+632	1	33
+635	1	33
+638	3	33
+651	1	33
+667	1	33
+735	1	33
+747	2	33
+748	1	33
+750	2	33
+751	1	33
+753	1	33
+759	1	33
+765	1	33
+766	1	33
+767	3	33
+775	3	33
+778	1	33
+782	1	33
+784	2	33
+786	1	33
+788	1	33
+789	2	33
+791	1	33
+793	4	33
+794	1	33
+799	1	33
+800	5	33
+808	3	33
+811	1	33
+905	1	33
+925	2	33
+948	1	33
+953	1	33
+959	1	33
+977	2	33
+983	3	33
+1016	1	33
+1019	1	33
+1023	1	33
+1030	2	33
+1055	1	33
+1063	1	33
+1081	1	33
+1082	2	33
+1087	1	33
+1088	1	33
+1090	1	33
+1097	1	33
+1135	1	33
+1151	1	33
+1174	1	33
+1260	1	33
+1273	1	33
+1275	2	33
+1276	1	33
+1278	1	33
+1280	1	33
+1285	4	33
+1286	4	33
+1287	5	33
+1302	2	33
+1308	2	33
+1312	1	33
+1334	1	33
+1335	2	33
+1338	2	33
+1341	1	33
+1346	1	33
+1352	1	33
+1390	1	33
+1397	1	33
+1417	1	33
+1428	1	33
+1432	1	33
+1432	1	33
+.I 34
+.T
+Keyword-In-Context Index for Technical Literature (KWIC Index)
+.A
+Luhn, H.P.
+.W
+   A distinction is made between bibliographical indexes for new and past
+literature based on the willingness of the user to trade perfection for 
+currency.. Indexes giving keywords in their context are proposed as suitable 
+for disseminating new information.. These can be entirely machine-generated 
+and hence kept up-to-date with the current literature.. A compatible coding 
+scheme to identify the indexed documents is also proposed.. In it elements are
+automatically extracted from the usual identifiers of the document so that the 
+coded identifier yields a maximum of information while remaining susceptible 
+to normal methods of ordering..
+.X
+18	1	34
+34	8	34
+49	1	34
+53	4	34
+59	1	34
+164	1	34
+175	1	34
+202	1	34
+213	1	34
+224	1	34
+243	1	34
+252	1	34
+421	1	34
+465	1	34
+466	1	34
+480	1	34
+490	1	34
+491	1	34
+506	1	34
+507	1	34
+510	2	34
+512	1	34
+565	1	34
+591	1	34
+595	1	34
+603	2	34
+604	1	34
+622	1	34
+623	1	34
+629	1	34
+633	1	34
+639	1	34
+659	1	34
+673	1	34
+674	1	34
+676	1	34
+680	1	34
+711	4	34
+715	1	34
+722	1	34
+723	1	34
+726	1	34
+728	1	34
+730	1	34
+731	1	34
+732	1	34
+746	1	34
+760	1	34
+809	1	34
+810	1	34
+813	1	34
+814	1	34
+820	1	34
+822	1	34
+828	1	34
+870	1	34
+879	1	34
+1045	1	34
+1091	1	34
+1118	1	34
+1281	1	34
+1283	1	34
+1298	1	34
+1299	1	34
+1327	1	34
+1363	1	34
+1366	1	34
+1367	1	34
+1368	1	34
+1396	1	34
+1448	1	34
+1448	1	34
+.I 35
+.T
+Comparisons of Four Types of Lexical Indicators of Content
+.A
+Rath, G.J.
+Resnick, A.
+Savage, T.R.
+.W
+An experiment was conducted to determine which of 
+four types of lexical indicators of content could be
+utilized best by subjects to determine relevant from
+irrelevant documents and to answer a set of 100
+questions.  The results indicate that there were no
+major differences between the groups using complete
+text and abstracts to select relevant documents, but
+the group utilizing the complete text obtained a
+significantly higher score on the examination.
+.X
+26	1	35
+29	1	35
+35	5	35
+42	2	35
+43	3	35
+52	1	35
+58	1	35
+70	2	35
+73	1	35
+81	1	35
+84	1	35
+95	1	35
+315	1	35
+420	2	35
+444	1	35
+445	1	35
+447	1	35
+449	1	35
+474	1	35
+486	1	35
+499	1	35
+532	1	35
+571	3	35
+578	1	35
+582	1	35
+589	1	35
+594	1	35
+595	1	35
+625	1	35
+655	1	35
+656	1	35
+657	2	35
+660	1	35
+664	1	35
+666	1	35
+712	1	35
+762	1	35
+764	1	35
+893	1	35
+1016	1	35
+1030	1	35
+1045	1	35
+1054	2	35
+1084	1	35
+1154	1	35
+1195	1	35
+1201	1	35
+1232	1	35
+1235	1	35
+1281	3	35
+1285	1	35
+1295	1	35
+1298	1	35
+1298	1	35
+.I 36
+.T
+Recorded Use of Books in the Yale Medical Library
+.A
+Kilgour, F.G.
+.W
+Explores the amount of use of books by categories of
+borrowers in the Yale Medical Library, with a view to
+discovering the proportion of the catalogue which should
+be put in machinable form.
+.X
+31	1	36
+33	2	36
+36	7	36
+41	2	36
+46	2	36
+57	1	36
+89	1	36
+90	1	36
+97	1	36
+102	1	36
+111	1	36
+112	1	36
+161	1	36
+163	1	36
+181	1	36
+182	1	36
+183	4	36
+184	5	36
+185	1	36
+193	4	36
+195	2	36
+198	2	36
+199	2	36
+201	4	36
+202	1	36
+203	4	36
+204	2	36
+205	2	36
+209	1	36
+210	1	36
+211	1	36
+212	1	36
+217	2	36
+220	2	36
+222	1	36
+225	1	36
+233	1	36
+267	1	36
+269	3	36
+284	1	36
+286	1	36
+294	1	36
+359	1	36
+373	1	36
+395	2	36
+415	1	36
+543	1	36
+545	1	36
+552	1	36
+587	2	36
+588	1	36
+605	1	36
+613	2	36
+614	1	36
+624	1	36
+638	1	36
+667	1	36
+735	1	36
+747	1	36
+748	1	36
+750	2	36
+751	1	36
+753	1	36
+759	1	36
+760	1	36
+765	1	36
+766	1	36
+767	3	36
+774	1	36
+775	1	36
+778	2	36
+782	1	36
+784	1	36
+787	1	36
+788	1	36
+789	1	36
+791	1	36
+792	1	36
+793	2	36
+799	1	36
+800	3	36
+808	2	36
+891	2	36
+905	2	36
+952	1	36
+953	2	36
+959	1	36
+964	1	36
+968	1	36
+977	1	36
+983	1	36
+1009	1	36
+1016	1	36
+1018	1	36
+1019	1	36
+1023	1	36
+1030	1	36
+1055	1	36
+1081	1	36
+1082	1	36
+1083	1	36
+1085	1	36
+1086	1	36
+1087	1	36
+1090	1	36
+1135	1	36
+1151	1	36
+1201	1	36
+1240	1	36
+1260	1	36
+1275	2	36
+1276	1	36
+1278	2	36
+1280	1	36
+1285	1	36
+1286	1	36
+1287	1	36
+1302	1	36
+1335	1	36
+1359	1	36
+1390	1	36
+1397	3	36
+1401	1	36
+1416	1	36
+1417	3	36
+1418	1	36
+1428	1	36
+1432	1	36
+1432	1	36
+.I 37
+.T
+The World's Technical Journal Literature:
+An Estimate of Volume, Origin, Language,
+Field, Indexing, and Abstracting
+.A 
+Bourne, C.P.
+.W
+A quantitative estimate is made of the magnitude of the
+world's scientific and technical journal literature problem.
+Using a number of basic sources of statistical information,
+a composite picture is established to show such things as
+the total volume, linguistic and national origins, breakdown
+by subject field, and degree of coverage by the abstracting
+and indexing services.
+.X
+19	1	37
+37	9	37
+39	1	37
+40	3	37
+47	1	37
+63	2	37
+88	1	37
+97	1	37
+102	1	37
+103	1	37
+166	1	37
+198	1	37
+233	1	37
+253	2	37
+313	1	37
+359	1	37
+377	1	37
+379	1	37
+395	2	37
+505	1	37
+543	1	37
+560	1	37
+573	1	37
+614	1	37
+618	2	37
+622	1	37
+632	1	37
+635	1	37
+638	1	37
+667	1	37
+735	1	37
+748	1	37
+749	1	37
+751	1	37
+760	1	37
+764	1	37
+765	1	37
+777	2	37
+778	1	37
+782	1	37
+804	1	37
+805	1	37
+893	1	37
+907	1	37
+952	2	37
+1016	1	37
+1030	1	37
+1061	1	37
+1085	1	37
+1086	1	37
+1087	1	37
+1115	1	37
+1168	1	37
+1182	1	37
+1200	1	37
+1210	1	37
+1223	1	37
+1260	1	37
+1274	1	37
+1275	2	37
+1276	1	37
+1277	1	37
+1278	1	37
+1280	1	37
+1287	1	37
+1301	2	37
+1302	3	37
+1304	1	37
+1313	1	37
+1330	1	37
+1338	1	37
+1344	1	37
+1347	1	37
+1380	2	37
+1428	1	37
+1444	1	37
+1446	1	37
+1447	1	37
+1447	1	37
+.I 38
+.T
+Machinelike Indexing by People
+.A
+Montgomery, C.
+Swanson, D.R.
+.W
+A study of several thousand entries in a classified bibliography
+of article titles (the Index Medicus) revealed that a
+large proportion of the title entries contained words identical
+to or synonymous with words of the corresponding
+subject heading.  It is inferred that a major part of the
+bibliography studied could have been compiled by a machine
+procedure operating on titles alone, provided the
+machine was supplied with a suitable synonym dictionary.
+.X
+38	9	38
+52	2	38
+75	1	38
+84	1	38
+150	2	38
+175	1	38
+382	1	38
+429	1	38
+488	1	38
+489	1	38
+490	1	38
+491	1	38
+492	1	38
+493	1	38
+494	1	38
+495	1	38
+496	1	38
+497	1	38
+499	1	38
+500	1	38
+510	2	38
+514	1	38
+520	1	38
+565	1	38
+581	1	38
+582	3	38
+583	3	38
+584	1	38
+586	2	38
+589	2	38
+597	1	38
+603	3	38
+608	1	38
+659	1	38
+722	2	38
+726	1	38
+755	1	38
+795	1	38
+801	1	38
+813	1	38
+820	1	38
+822	1	38
+827	1	38
+830	1	38
+986	1	38
+1091	1	38
+1144	2	38
+1171	1	38
+1195	2	38
+1294	2	38
+1327	1	38
+1421	1	38
+1448	1	38
+1448	1	38
+.I 39
+.T
+Bibliographic Coupling Between Scientific Papers
+.A
+Kessler, M.M.
+.W
+This report describes the results of automatic processing
+of a large number of scientific papers according
+to a rigorously defined criterion of coupling.  The
+population of papers under study was ordered into 
+groups that satisfy the stated criterion of interrelation.
+An examination of the papers that constitute the
+groups shows a high degree of logical correlation.
+.X
+19	1	39
+37	1	39
+39	19	39
+40	1	39
+47	1	39
+50	2	39
+67	1	39
+83	1	39
+88	1	39
+89	1	39
+97	2	39
+102	1	39
+103	1	39
+106	1	39
+113	1	39
+114	1	39
+120	1	39
+175	2	39
+233	1	39
+253	1	39
+292	1	39
+313	1	39
+326	1	39
+359	1	39
+377	1	39
+379	2	39
+395	1	39
+420	1	39
+446	1	39
+455	1	39
+458	1	39
+473	2	39
+485	5	39
+503	6	39
+505	1	39
+560	2	39
+572	1	39
+573	1	39
+576	1	39
+584	1	39
+602	1	39
+605	1	39
+616	1	39
+618	2	39
+632	8	39
+635	2	39
+662	1	39
+666	1	39
+667	3	39
+748	1	39
+749	2	39
+751	1	39
+764	1	39
+765	1	39
+773	1	39
+777	1	39
+778	1	39
+782	1	39
+784	1	39
+804	1	39
+805	2	39
+893	2	39
+952	1	39
+958	1	39
+1010	1	39
+1016	1	39
+1044	1	39
+1061	1	39
+1082	1	39
+1083	1	39
+1085	2	39
+1086	2	39
+1087	1	39
+1123	1	39
+1144	1	39
+1182	1	39
+1187	1	39
+1200	1	39
+1201	1	39
+1207	4	39
+1273	1	39
+1274	1	39
+1277	2	39
+1278	1	39
+1280	1	39
+1283	2	39
+1285	2	39
+1287	3	39
+1300	1	39
+1301	1	39
+1302	3	39
+1304	1	39
+1313	1	39
+1327	1	39
+1338	1	39
+1341	1	39
+1344	1	39
+1346	1	39
+1347	2	39
+1380	2	39
+1405	1	39
+1426	1	39
+1428	2	39
+1444	3	39
+1444	3	39
+.I 40
+.T
+Worldwide Census of Scientific and Technical Serials
+.A
+Gottschalk, Charles M.
+.A
+Desmond, Winifred F.
+.W
+   Results of the census of the world's scientific and technical serial 
+literature, within the limits defined and based on an examination of published 
+source material from countries throughout the world, reflect a total title 
+population much lower than estimated before.. Distribution of this population 
+by country, showing better than 50% of the total divided among six major 
+countries,  is included and discussed, together with a broad subject 
+distribution of serials for certain countries..
+.X
+19	1	40
+37	3	40
+39	1	40
+40	10	40
+47	1	40
+88	1	40
+97	1	40
+102	1	40
+103	1	40
+131	1	40
+133	1	40
+136	1	40
+150	1	40
+233	1	40
+253	2	40
+313	1	40
+359	1	40
+360	1	40
+377	1	40
+379	1	40
+395	1	40
+465	1	40
+505	1	40
+560	1	40
+573	1	40
+618	2	40
+622	1	40
+632	1	40
+635	1	40
+667	1	40
+748	1	40
+749	1	40
+751	1	40
+764	1	40
+765	1	40
+777	2	40
+778	1	40
+782	2	40
+804	1	40
+805	1	40
+893	1	40
+952	1	40
+1016	1	40
+1030	1	40
+1061	1	40
+1085	1	40
+1086	1	40
+1087	1	40
+1089	1	40
+1098	1	40
+1151	1	40
+1160	1	40
+1168	1	40
+1182	1	40
+1200	1	40
+1209	1	40
+1223	1	40
+1235	1	40
+1274	1	40
+1275	1	40
+1277	1	40
+1278	1	40
+1280	1	40
+1287	1	40
+1289	1	40
+1290	1	40
+1301	2	40
+1302	2	40
+1304	1	40
+1313	1	40
+1338	1	40
+1344	1	40
+1347	1	40
+1380	2	40
+1428	1	40
+1444	1	40
+1444	1	40
+.I 41
+.T
+New Factors in the Evaluation of Scientific Literature 
+Through Citation Indexing
+.A
+Garfield, E.
+.A
+Sher, I.H.
+.W
+   More than one million citations from the scientific literature have been 
+processed by the Citation Index Project at the Institute for Scientific 
+Information.. The Project, sponsored by NSF and NIH, will be described briefly,
+and new methods of using citation data for evaluation of publications will be
+discussed..
+   Summaries of statistical data, compiled by computer methods such as the 
+following, will be given..
+   1. Frequency of citation of one journal by another..
+   2. Frequency of current citations to the past literature..
+   3. Frequency of self-citation by journals and authors..
+   4. Number of source citations per cited paper..
+   5. Number of references per source paper..
+   6. Number of papers published per journal..
+.X
+31	1	41
+33	1	41
+36	2	41
+41	9	41
+46	1	41
+47	1	41
+50	1	41
+89	1	41
+97	1	41
+102	1	41
+105	1	41
+106	1	41
+111	1	41
+112	1	41
+132	1	41
+147	1	41
+163	1	41
+181	1	41
+182	1	41
+183	2	41
+184	2	41
+193	2	41
+195	2	41
+196	2	41
+198	2	41
+199	2	41
+201	1	41
+203	2	41
+210	1	41
+215	1	41
+219	1	41
+221	1	41
+225	1	41
+233	1	41
+269	2	41
+359	1	41
+373	1	41
+377	1	41
+395	1	41
+415	1	41
+473	1	41
+545	1	41
+552	1	41
+587	1	41
+605	1	41
+613	1	41
+614	1	41
+632	1	41
+638	1	41
+735	1	41
+747	2	41
+750	1	41
+753	1	41
+760	1	41
+764	1	41
+766	1	41
+767	2	41
+772	1	41
+774	1	41
+775	1	41
+778	1	41
+782	1	41
+784	1	41
+788	1	41
+789	1	41
+793	1	41
+800	1	41
+808	1	41
+891	1	41
+893	1	41
+905	3	41
+952	1	41
+953	2	41
+964	1	41
+965	1	41
+968	1	41
+977	1	41
+983	1	41
+1009	1	41
+1010	1	41
+1016	1	41
+1018	1	41
+1019	1	41
+1023	1	41
+1030	1	41
+1055	1	41
+1071	2	41
+1085	1	41
+1086	1	41
+1087	1	41
+1090	2	41
+1135	1	41
+1147	2	41
+1240	1	41
+1260	1	41
+1274	1	41
+1275	2	41
+1276	1	41
+1277	1	41
+1278	2	41
+1280	2	41
+1283	1	41
+1285	5	41
+1286	1	41
+1287	3	41
+1301	1	41
+1302	5	41
+1313	1	41
+1335	1	41
+1341	1	41
+1347	1	41
+1352	1	41
+1359	1	41
+1390	1	41
+1397	2	41
+1417	2	41
+1428	1	41
+1432	1	41
+1444	1	41
+1444	1	41
+.I 42
+.T
+The Notion of Relevance
+.A
+Hillman, Donald J.
+.W
+   Analysis of the problems of defining the mutual relevancies of queries and 
+document-collections indicates that they essentially involve the problem of
+conceptual relatedness.. In order to consider the later problem, the question 
+of concept-formation is first discussed, which in turn requires a definition of
+concept.. An extensional interpretation is suggested whereby a concept is 
+associated with a class of conceptually-similar documents.. Users' similarity-
+judgments then provide the empirical data for formal definitions of concept and
+conceptual relatedness.. It is found, however, that certain very general 
+difficulties rule out the possibility of defining concepts and their 
+relatedness by the method proposed.. Since this method is based on human 
+relevance-judgments, it seems a natural one to adopt, so that its collapse has
+serious practical and theoretical consequences.. An alternative approach is 
+therefore proposed whose elaboration will form Part II of this article..
+.X
+3	1	42
+20	1	42
+28	1	42
+29	1	42
+35	2	42
+42	7	42
+43	2	42
+52	1	42
+58	1	42
+60	1	42
+70	2	42
+72	1	42
+73	1	42
+79	1	42
+81	1	42
+84	1	42
+85	1	42
+95	1	42
+129	1	42
+152	1	42
+172	1	42
+184	1	42
+193	1	42
+202	1	42
+420	1	42
+444	2	42
+445	1	42
+447	1	42
+449	1	42
+469	1	42
+474	1	42
+486	1	42
+532	1	42
+564	1	42
+565	1	42
+578	1	42
+582	1	42
+585	1	42
+589	1	42
+594	1	42
+595	1	42
+599	1	42
+625	1	42
+640	1	42
+652	1	42
+655	1	42
+656	1	42
+657	1	42
+660	1	42
+661	1	42
+663	1	42
+665	1	42
+714	2	42
+761	1	42
+762	3	42
+764	1	42
+803	1	42
+893	1	42
+907	1	42
+1016	1	42
+1022	1	42
+1030	1	42
+1045	2	42
+1054	1	42
+1084	1	42
+1154	1	42
+1195	1	42
+1201	1	42
+1232	1	42
+1235	1	42
+1268	1	42
+1281	2	42
+1285	1	42
+1295	1	42
+1298	1	42
+1394	1	42
+1407	1	42
+1407	1	42
+.I 43
+.T
+The Consistency of Human Judgments of Relevance
+.A
+Resnick, A.
+.A
+Savage, T.R.
+.W
+   A comparison of the ability of humans to consistently judge the relevance 
+of documents to their general interests from bases of citations, abstracts, 
+keywords, and total text was made under controlled experimental conditions.. 
+The results showed that 1) humans are able to make such judgments consistently,
+and 2) the consistency of the judgment is independent of the particular base 
+from which it is made.. Apparent inconsistency arising from judgments made on the 
+basis of abstracts remains unexplained.. This experiment, as well as others
+concerned with human evaluations of text material, leave unexplored the basic
+problem of providing a metric scale on which such evaluations can be measured..
+.X
+28	1	43
+29	1	43
+35	3	43
+42	2	43
+43	6	43
+47	1	43
+50	1	43
+52	1	43
+58	1	43
+65	1	43
+70	2	43
+73	1	43
+75	1	43
+81	1	43
+84	1	43
+95	1	43
+309	1	43
+328	1	43
+389	1	43
+390	1	43
+420	1	43
+444	1	43
+445	1	43
+447	1	43
+449	1	43
+474	1	43
+486	2	43
+532	1	43
+565	1	43
+571	1	43
+578	1	43
+582	1	43
+586	1	43
+589	1	43
+594	1	43
+595	1	43
+625	1	43
+655	1	43
+656	1	43
+657	1	43
+660	2	43
+661	1	43
+762	1	43
+764	1	43
+778	1	43
+791	1	43
+893	1	43
+958	1	43
+1016	1	43
+1030	1	43
+1045	1	43
+1054	1	43
+1084	1	43
+1154	1	43
+1195	1	43
+1201	1	43
+1232	1	43
+1235	1	43
+1281	3	43
+1285	1	43
+1295	1	43
+1298	1	43
+1298	1	43
+.I 44
+.T
+The Distribution of Term Usage in Manipulative Indexes
+.A
+Houston, Nona
+.A
+Wall, Eugene
+.W
+   A semi-empirical correlation, based on data from nine indexes, permits the
+prediction of the percentage of terms in a manipulative index vocabulary which 
+will be used to index any given number of documents.. This is a function of the
+total number of index entries in the system.. A log-normal relationship, 
+similar  to Zipf's Law, exists between total index entries and distribution of
+term usage.. Based upon the correlation, optimum vocabulary size and growth rate
+can inferred, as well as the most efficient arrangement of index entries in a 
+storage medium.. The results agree well with published data and appear to be 
+particularly useful for designers of mechanized retrieval or publication
+operations..
+.X
+19	1	44
+44	5	44
+57	3	44
+61	1	44
+62	1	44
+76	1	44
+81	1	44
+329	1	44
+359	2	44
+389	1	44
+390	1	44
+416	2	44
+450	1	44
+511	1	44
+521	1	44
+565	2	44
+567	1	44
+748	1	44
+759	1	44
+765	1	44
+778	2	44
+787	1	44
+791	1	44
+875	1	44
+893	2	44
+894	1	44
+1081	1	44
+1082	1	44
+1083	1	44
+1154	1	44
+1173	1	44
+1201	1	44
+1255	1	44
+1255	1	44
+.I 45
+.T
+Measuring the Reliability of Subject Classification by Men and Machines
+.A
+Borko, Harold
+.W
+   Procedures for measuring the consistency of document classification are 
+described.. Three subject specialists classified 997 abstracts of psychological 
+reports into one of eleven categories.. These abstracts were also mechanically
+classified by a computer program using a factor score computational procedure.. 
+Each abstract was scored for all categories and assigned to the one with the
+highest score.. The three manual classifications were compared with each other
+and with the mechanical classifications, and a series of contingency 
+coefficients was computed.. The average reliability of manual classification 
+procedures was equal to .870.. The correlation between automatic and manual 
+classification was .766..
+.X
+26	1	45
+28	1	45
+45	6	45
+61	1	45
+73	1	45
+81	1	45
+82	1	45
+174	1	45
+175	1	45
+310	1	45
+315	1	45
+419	1	45
+420	1	45
+421	1	45
+422	1	45
+454	1	45
+479	1	45
+483	1	45
+485	1	45
+486	1	45
+487	1	45
+562	1	45
+564	2	45
+661	1	45
+662	3	45
+663	3	45
+664	1	45
+769	1	45
+853	1	45
+1279	1	45
+1327	1	45
+1419	1	45
+1419	1	45
+.I 46
+.T
+A Quantitative Measure of User Circulation Requirements and Its Possible
+Effect on Stack Thinning and Multiple Copy Determination
+.A
+Trueswell, Richard W.
+.W
+   The strategy outlined in this article describes a possible aid to the 
+librarian for thinning a library's stack according to the criterion of user 
+needs.. The method uses the last circulation date as a parameter of user 
+circulation requirements.. The resulting stack collection would, by design,
+satisfy over 99 percent of the user circulation requirements and yet be of
+minimum size.. Preliminary, but not yet fully validated research, indicates 
+that the number of volumes in a library's holdings may be reduced by 60 to 70 
+percent and yet satisfy well over 99 percent of the user requirements.. It may
+also be possible to determine which books should have multiple copies in order
+that user disappointment can be minimized.. The effective result of this 
+approach is that there now may be a quantitative method of maintaining the 
+library's holdings at a reasonable level and, in addition, a reduction in the 
+disappointment of the user who is unable to find the book he wants because of 
+use by another..
+.X
+31	3	46
+33	1	46
+36	2	46
+41	1	46
+46	14	46
+115	1	46
+181	1	46
+182	1	46
+183	1	46
+184	1	46
+193	1	46
+195	1	46
+198	1	46
+201	1	46
+206	1	46
+207	1	46
+208	1	46
+266	1	46
+269	3	46
+278	1	46
+280	2	46
+282	1	46
+290	2	46
+367	1	46
+395	1	46
+415	1	46
+759	1	46
+760	1	46
+767	2	46
+774	1	46
+778	2	46
+891	1	46
+905	1	46
+925	2	46
+943	1	46
+952	1	46
+953	1	46
+964	2	46
+968	1	46
+977	1	46
+983	3	46
+1009	1	46
+1018	1	46
+1019	4	46
+1023	1	46
+1030	1	46
+1086	1	46
+1203	2	46
+1240	1	46
+1359	1	46
+1397	1	46
+1416	2	46
+1417	3	46
+1450	1	46
+1450	1	46
+.I 47
+.T
+Improvement of the Selectivity of Citation Indexes to Science Literature
+Through Inclusion of Citation Relationship Indicators
+.A
+Lipetz, Ben-Ami
+.W
+   Citation indexes to large bodies of science literature can often list far
+more citing references under the known cited reference than the user can 
+afford the time to look up.. By providing some additional information, beyond 
+the minimal association of the citing reference with the cited reference, a 
+citation index could provide the means of the user to select from a long list 
+those citing references which are most relevant to his immediate search 
+requirement.. Means of providing this selectivity are discussed.. Particular 
+attention is given to the possibility of adding short codes to the citation 
+entries which would be informative of the way in which the citing publication
+is operationally related to the cited one (this method is an integral feature 
+of the Shepard's legal citations).. A scheme of citation relationships of 
+potential value to users of science literature is presented.. These 
+relationships were tested on a sampling of physics literature.. The suggested 
+categories include indicators of the relation of the citing reference to the
+scientific process in general, as well as indicators of its relationship to the
+cited reference in particular.. Assignment of the categories to a citation 
+requires the exercise of judgment, as in subject indexing, but does not involve
+the use of subject terminology.. An illustration is provided of the application 
+from a citation index to physics literature..
+.X
+19	1	47
+37	1	47
+39	1	47
+40	1	47
+41	1	47
+43	1	47
+47	6	47
+48	1	47
+50	1	47
+65	1	47
+75	1	47
+88	1	47
+97	1	47
+102	2	47
+103	1	47
+106	1	47
+113	1	47
+233	1	47
+253	1	47
+313	1	47
+359	1	47
+377	2	47
+379	1	47
+395	1	47
+503	1	47
+505	1	47
+513	1	47
+560	1	47
+573	1	47
+586	1	47
+618	1	47
+632	2	47
+635	1	47
+667	1	47
+748	1	47
+749	1	47
+751	1	47
+764	2	47
+765	1	47
+777	1	47
+778	2	47
+782	1	47
+791	1	47
+804	1	47
+805	1	47
+893	1	47
+952	1	47
+958	1	47
+1016	1	47
+1061	1	47
+1085	1	47
+1086	1	47
+1087	1	47
+1182	1	47
+1200	1	47
+1210	1	47
+1274	2	47
+1277	2	47
+1278	2	47
+1280	2	47
+1285	1	47
+1287	1	47
+1300	1	47
+1301	2	47
+1302	2	47
+1304	1	47
+1308	1	47
+1313	3	47
+1338	1	47
+1344	1	47
+1347	1	47
+1380	1	47
+1428	1	47
+1444	2	47
+1444	2	47
+.I 48
+.T
+The Norms of Citation Behavior: Prolegomena to the Footnote
+.A
+Kaplan, Norman
+.W
+   The publication explosion has focused renewed attention on the lowly 
+footnote.. While we are all at least partially aware of the technical functions
+of the citation for both the writer and the reader of the scientific paper, 
+little is known about the norms operating in actual practice.. Even less is 
+known about the operating norms with respect to the more sociological functions,
+including the acknowledgement of intellectual debts or the conferral of 
+recognition upon the works of others.. This paper reviews the state of our 
+knowledge, raises questions, and proposes suggestions and hypotheses for 
+studying the relationships between footnoting practices among scientists and
+the social system of science..
+.X
+33	2	48
+47	1	48
+48	10	48
+98	2	48
+100	1	48
+102	3	48
+104	2	48
+106	3	48
+108	1	48
+110	1	48
+111	1	48
+112	1	48
+113	4	48
+167	1	48
+170	1	48
+233	1	48
+314	1	48
+361	1	48
+439	1	48
+440	1	48
+456	3	48
+503	1	48
+513	1	48
+533	2	48
+545	2	48
+560	1	48
+614	1	48
+635	1	48
+638	1	48
+748	1	48
+753	1	48
+756	1	48
+757	1	48
+784	1	48
+787	1	48
+792	1	48
+793	1	48
+821	1	48
+831	1	48
+952	1	48
+953	1	48
+1062	1	48
+1082	1	48
+1083	1	48
+1087	1	48
+1173	1	48
+1210	2	48
+1254	1	48
+1256	1	48
+1260	1	48
+1270	1	48
+1273	1	48
+1275	1	48
+1278	1	48
+1285	3	48
+1286	2	48
+1287	4	48
+1291	1	48
+1300	1	48
+1301	1	48
+1302	1	48
+1304	1	48
+1308	1	48
+1313	1	48
+1335	1	48
+1337	2	48
+1338	4	48
+1340	1	48
+1341	1	48
+1344	2	48
+1346	2	48
+1347	1	48
+1369	1	48
+1373	1	48
+1386	1	48
+1418	1	48
+1418	1	48
+.I 49
+.T
+Adaptive Information Dissemination
+.A
+Sage, C.R.
+.A
+Anderson, R.R.
+.A
+Fitzwater, D.R.
+.W
+   Computer dissemination of information offers significant advantages over
+manual dissemination because the computer can use strategies that are 
+impractical and in some cases impossible for a human.. This paper describes
+the Ames Laboratory Selective Dissemination of Information system with emphasis
+on the effectiveness of user feedback.. The system will accept any document, 
+abstract, keyword, etc., in a KWIC or Science Citation Index Source format..
+User profiles consist of words or word clusters each with an initially 
+assigned significance value.. These values are used in making the decision to
+notify a user that he may be interested in a particular document.. According to
+responses, the significance values are increased or decreased and quickly 
+attain an equilibrium which accurately describes the user's interests.. The
+system is economical compared to other existing SDI systems and human
+intervention is negligible except for adding and deleting profile entries..
+.X
+18	1	49
+34	1	49
+49	5	49
+53	1	49
+54	1	49
+59	1	49
+164	1	49
+202	1	49
+213	1	49
+224	1	49
+243	1	49
+421	2	49
+465	3	49
+466	1	49
+480	1	49
+490	1	49
+491	1	49
+506	1	49
+507	1	49
+510	1	49
+512	1	49
+591	1	49
+595	1	49
+603	1	49
+604	1	49
+622	1	49
+623	1	49
+629	1	49
+633	1	49
+639	1	49
+659	1	49
+676	2	49
+711	1	49
+714	1	49
+722	1	49
+723	1	49
+726	1	49
+728	1	49
+730	1	49
+731	1	49
+732	1	49
+748	1	49
+809	1	49
+810	1	49
+813	1	49
+814	1	49
+820	1	49
+822	1	49
+828	1	49
+870	1	49
+879	1	49
+1091	1	49
+1279	1	49
+1283	1	49
+1298	1	49
+1299	1	49
+1363	1	49
+1366	1	49
+1367	1	49
+1368	1	49
+1396	1	49
+1396	1	49
+.I 50
+.T
+Comparison of the Results of Bibliographic Coupling and 
+Analytic Subject Indexing
+.A
+Kessler, M.M.
+.W
+  A detailed comparison of how 334 papers in Volume 112 of Physical Review form
+related groups according to two criteria of relatedness.. The criteria are: (1)
+the Analytic Subject Index as used by the editors of the Physical Review; and
+(2) the method of Bibliographic Coupling.. The similarities and differences 
+between the groups thus formed are illustrated and discussed..
+.X
+39	2	50
+41	1	50
+43	1	50
+47	1	50
+50	8	50
+65	1	50
+75	1	50
+105	1	50
+131	2	50
+175	2	50
+233	1	50
+326	1	50
+382	1	50
+395	1	50
+446	1	50
+473	3	50
+485	2	50
+486	1	50
+503	1	50
+572	1	50
+586	1	50
+616	1	50
+632	1	50
+769	1	50
+773	1	50
+778	1	50
+780	1	50
+785	1	50
+791	1	50
+893	1	50
+907	1	50
+958	2	50
+965	1	50
+966	1	50
+1123	1	50
+1207	2	50
+1255	1	50
+1277	1	50
+1280	1	50
+1283	1	50
+1285	3	50
+1287	2	50
+1341	1	50
+1426	1	50
+1426	1	50
+.I 51
+.T
+An Experiment in Automatic Indexing
+.A
+Damerau, Fred J.
+.W
+   This report describes a method of indexing documents which is based on the 
+assumptions, (1) that a subset of the words in a document can be an effective 
+index to that document, and (2) that this subject can be approximated by 
+selecting those words from the document whose frequencies are statistically
+unexpectedly high.. The results of the experiment are encouraging, although not
+definitive because any index set chosen must be tested by using it for 
+retrieval from a large collection..
+.X
+26	1	51
+51	5	51
+61	1	51
+69	2	51
+71	1	51
+77	1	51
+79	2	51
+114	1	51
+144	1	51
+168	1	51
+175	2	51
+176	3	51
+315	1	51
+382	1	51
+419	2	51
+441	1	51
+448	1	51
+458	1	51
+480	1	51
+483	1	51
+484	1	51
+486	1	51
+488	1	51
+491	1	51
+493	1	51
+503	1	51
+507	1	51
+509	1	51
+510	1	51
+512	1	51
+517	1	51
+520	1	51
+522	1	51
+527	1	51
+528	1	51
+531	1	51
+565	2	51
+566	2	51
+577	2	51
+581	1	51
+596	1	51
+603	1	51
+608	1	51
+633	1	51
+644	1	51
+659	1	51
+660	3	51
+662	2	51
+664	1	51
+715	1	51
+754	1	51
+790	1	51
+805	1	51
+809	1	51
+810	1	51
+812	2	51
+813	1	51
+814	1	51
+817	1	51
+824	2	51
+825	1	51
+894	1	51
+1051	1	51
+1294	2	51
+1327	2	51
+1419	1	51
+1427	1	51
+1427	1	51
+.I 52
+.T
+Comparative Indexing: Terms Supplied by Biomedical 
+Authors and by Document Titles
+.A
+Schultz, Claire K.
+.A
+Schultz, Wallace L.
+.A
+Orr, Richard H.
+.W
+   The original aim of this study was to obtain objective data bearing on the 
+much argued question of whether author indexing is "good".. Author indexing of
+285 documents reporting biomedical research was scored by comparing the author-
+supplied terms (author set) for each paper with a criterion set of terms that 
+was  established by asking a group of 12 potential users to describe the same
+document.. Terms in the document title (title set) were scored similarly.. The
+average author set contained almost half of all the terms employed by more than 
+one member of the user group and scored 73% of the maximal possible score, as 
+compared with 44% for the average title set.. When judged by the method and 
+criterion employed here, author indexing is substantially better than indexing 
+derived from document titles.. The findings suggest that indicia supplied by an
+author should serve scientists in biomedical disciplines other than his own 
+about as well as they serve his disciplinary colleagues.. The general method
+developed for measuring indexing quality may represent a practical yardstick of 
+wide applicability..
+.X
+35	1	52
+38	2	52
+42	1	52
+43	1	52
+52	6	52
+61	1	52
+70	1	52
+73	2	52
+75	1	52
+81	2	52
+82	1	52
+95	1	52
+150	2	52
+420	1	52
+429	1	52
+455	1	52
+510	1	52
+578	1	52
+582	2	52
+589	3	52
+594	1	52
+595	1	52
+603	2	52
+655	1	52
+656	1	52
+657	1	52
+722	2	52
+781	1	52
+799	1	52
+830	1	52
+893	1	52
+1054	1	52
+1144	1	52
+1154	1	52
+1195	2	52
+1232	1	52
+1255	1	52
+1281	1	52
+1295	1	52
+1298	1	52
+1421	1	52
+1421	1	52
+.I 53
+.T
+The KWIC Index Concept: A Retrospective View
+.A
+Fischer, Marguerite
+.W
+   This paper defines and describes the KWIC (keyword in context) index concept,
+providing a history of the concept and of its literature.. It discusses 
+variations of the index, such as the Bell Telephone Index, KWOC indexes, and 
+the WADEX..
+   The paper discusses improvements and variations to the KWIC index, such as 
+manipulation of the index line, variations of the code, addition of 
+classification information, combination of author index and title index, and 
+improvements to the preparation of the KWIC indexes, such as improvement of 
+titles and use of a thesaurus, and discusses improvement of the use of the KWIC 
+index.. The paper discusses the usage of the KWIC index and comments on the 
+future of KWIC indexes of the KWIC concept..
+.X
+18	1	53
+34	4	53
+49	1	53
+53	7	53
+59	1	53
+150	1	53
+164	1	53
+175	1	53
+202	1	53
+213	1	53
+224	1	53
+243	1	53
+252	1	53
+421	1	53
+465	1	53
+466	1	53
+480	1	53
+490	1	53
+491	1	53
+506	1	53
+507	1	53
+510	1	53
+512	1	53
+565	1	53
+589	1	53
+591	1	53
+595	1	53
+603	1	53
+604	1	53
+622	1	53
+623	1	53
+629	1	53
+633	1	53
+639	1	53
+659	1	53
+674	1	53
+676	1	53
+680	1	53
+711	4	53
+715	2	53
+722	1	53
+723	1	53
+726	1	53
+728	1	53
+730	1	53
+731	1	53
+732	1	53
+746	1	53
+760	1	53
+809	1	53
+810	1	53
+813	1	53
+814	1	53
+820	1	53
+822	1	53
+828	1	53
+850	1	53
+870	1	53
+879	1	53
+1045	1	53
+1091	1	53
+1118	1	53
+1195	1	53
+1281	2	53
+1283	1	53
+1298	1	53
+1299	1	53
+1327	1	53
+1363	1	53
+1366	1	53
+1367	1	53
+1368	1	53
+1396	1	53
+1396	1	53
+.I 54
+.T
+Simulation of Boolean Logic Constraints Through
+the Use of Term Weights
+.A
+Brandhorst, W.T.
+.W
+The evolution described below of one aspect of the NASA
+system and Technical Information Facility's machine search
+system may be of general interest to the documentation
+profession.
+.X
+49	1	54
+54	7	54
+73	1	54
+150	1	54
+319	2	54
+465	1	54
+480	1	54
+509	1	54
+519	1	54
+565	1	54
+625	1	54
+660	2	54
+714	2	54
+748	1	54
+773	1	54
+780	1	54
+785	1	54
+810	2	54
+1279	1	54
+1307	1	54
+1427	1	54
+1427	1	54
+.I 55
+.T
+Bradford's Law and the Keenan-Atherton Data
+.A
+Groos, O.V.
+.W
+Bradford's methods are applied to the Keenan-Atherton
+data.  The results do not fit Bradford's Law.
+.X
+55	5	55
+210	1	55
+219	1	55
+225	1	55
+359	1	55
+361	1	55
+379	1	55
+573	1	55
+592	1	55
+614	1	55
+747	1	55
+748	2	55
+751	2	55
+777	1	55
+778	2	55
+791	1	55
+792	1	55
+889	1	55
+893	1	55
+1016	1	55
+1085	3	55
+1086	2	55
+1200	1	55
+1285	1	55
+1337	1	55
+1338	1	55
+1418	1	55
+1418	1	55
+.I 56
+.T
+Computer-Produced Micro-Library Catalog
+.A
+Kozumplik, W.A.
+Lange, R.T.
+.W
+  The philosophy, production, and cost-effectiveness of
+a computer-generated library catalog is described.
+This catalog is unique in that it utilizes direct computer
+to microfilm composition techniques, employing the
+Stromberg Carlson 4020.  Cost, user acceptance, and
+by-product capabilities are stressed.
+ 
+.X
+56	7	56
+341	1	56
+886	2	56
+887	1	56
+892	3	56
+1229	2	56
+1269	1	56
+1371	2	56
+1371	2	56
+.I 57
+.T
+Distribution of Indexing Terms for Maximum Efficiency 
+ of Information Transmission
+.A
+Zunde, Pranas
+.A
+Slamecka, Vladimir
+.W
+   A function was developed for the optimum distribution of indexing terms by 
+the number of postings.. This makes it possible to transmit information with 
+maximum efficiency.. The comparison of the actual distribution of the term 
+groups with the calculated optimum distribution provides an objective measure 
+for evaluating any indexing system with respect to its efficiency as 
+information transmission channel..
+.X
+36	1	57
+44	3	57
+57	8	57
+61	1	57
+73	1	57
+75	1	57
+76	1	57
+77	1	57
+81	1	57
+175	1	57
+176	2	57
+184	1	57
+193	1	57
+195	1	57
+201	1	57
+203	1	57
+204	1	57
+205	1	57
+233	1	57
+267	1	57
+274	1	57
+329	2	57
+359	2	57
+389	1	57
+390	2	57
+395	1	57
+416	2	57
+445	1	57
+449	1	57
+450	1	57
+458	1	57
+511	1	57
+521	1	57
+565	4	57
+567	1	57
+572	1	57
+577	1	57
+587	1	57
+595	1	57
+596	1	57
+608	1	57
+619	1	57
+625	1	57
+634	1	57
+643	1	57
+644	1	57
+649	1	57
+652	1	57
+660	1	57
+667	1	57
+748	2	57
+750	1	57
+751	1	57
+752	1	57
+754	1	57
+759	2	57
+765	2	57
+767	1	57
+778	2	57
+780	1	57
+785	1	57
+787	2	57
+791	2	57
+792	1	57
+793	1	57
+800	1	57
+810	1	57
+812	3	57
+813	1	57
+814	1	57
+829	1	57
+830	1	57
+870	1	57
+875	1	57
+893	1	57
+894	2	57
+895	1	57
+928	1	57
+963	1	57
+990	1	57
+991	1	57
+1081	2	57
+1082	2	57
+1083	2	57
+1085	1	57
+1086	1	57
+1154	1	57
+1201	2	57
+1255	2	57
+1278	1	57
+1282	1	57
+1401	1	57
+1413	1	57
+1417	1	57
+1418	1	57
+1445	1	57
+1445	1	57
+.I 58
+.T
+Relevance Disagreements and Unclear Request Forms
+.A
+O'Connor, John
+.W
+   Disagreements about the relevance of documents to retrieval requests occur
+because relevance judges differently interpret requests of documents.. Requests
+may be differently interpreted because they are unclear.. Well-known types of
+request obscurity are reviewed.. Less well known is that a request may be 
+unclear because its form - "documents about subject S", "document answering 
+question Q", etc. - is unclear.. 
+   Explications are developed of the meanings of the request forms just given 
+and several others.. A request of any of the forms discussed is interpreted to 
+be for documents which support statements of a specified kind in a specified 
+way.. Examples are given which suggest that some, perhaps all, "about S" 
+requests are unclear.. Some ways of formulating clear question requests are 
+given..
+   Various ways in which documents may support statements are distinguished..
+These depend on on such factors as parts of a document use, inference strength,
+and background knowledge permitted.. Some possible clear support specifications
+are indicated..
+.X
+29	3	58
+35	1	58
+42	1	58
+43	1	58
+58	10	58
+66	1	58
+68	4	58
+70	1	58
+84	3	58
+117	1	58
+165	1	58
+172	1	58
+274	2	58
+386	1	58
+444	1	58
+445	2	58
+447	1	58
+449	1	58
+451	3	58
+457	1	58
+467	1	58
+474	1	58
+486	1	58
+532	1	58
+578	1	58
+590	2	58
+604	1	58
+609	1	58
+625	1	58
+656	1	58
+660	1	58
+683	1	58
+689	2	58
+762	2	58
+764	1	58
+785	1	58
+814	1	58
+893	1	58
+901	1	58
+967	1	58
+1016	1	58
+1030	1	58
+1045	1	58
+1054	1	58
+1077	1	58
+1084	1	58
+1094	1	58
+1195	1	58
+1201	1	58
+1231	1	58
+1235	1	58
+1281	1	58
+1285	1	58
+1285	1	58
+.I 59
+.T
+Opinion Paper
+.A
+Savage, T.R.
+.W
+   Although a large number of Selective Dissemination of Information (SDI) 
+Systems have been planned, implemented, and tested over the past few years, 
+insufficient attention has been given to the collection and interpretation of 
+important data needed for evaluation.. We describe some of the defects common 
+to almost all of the reported systems, single out one recent report for 
+detailed discussion and argue in favor of collection and correct interpretation 
+of data on one important and frequently overlooked evaluation factor..
+.X
+18	1	59
+34	1	59
+49	1	59
+53	1	59
+59	8	59
+63	1	59
+164	2	59
+175	1	59
+202	1	59
+213	1	59
+224	1	59
+243	1	59
+274	1	59
+355	1	59
+401	1	59
+421	1	59
+465	1	59
+466	1	59
+481	1	59
+482	1	59
+490	1	59
+491	1	59
+506	1	59
+507	1	59
+510	1	59
+512	1	59
+591	1	59
+595	1	59
+603	1	59
+604	1	59
+622	1	59
+623	1	59
+629	1	59
+633	1	59
+639	1	59
+659	1	59
+676	2	59
+711	1	59
+717	1	59
+718	1	59
+719	1	59
+720	1	59
+722	1	59
+723	1	59
+726	1	59
+728	1	59
+730	1	59
+731	1	59
+732	1	59
+809	1	59
+810	1	59
+813	1	59
+814	1	59
+820	1	59
+822	1	59
+828	1	59
+870	1	59
+879	1	59
+980	1	59
+1042	1	59
+1051	1	59
+1084	1	59
+1091	1	59
+1281	1	59
+1283	1	59
+1298	2	59
+1299	1	59
+1363	1	59
+1366	1	59
+1367	1	59
+1368	1	59
+1396	1	59
+1410	1	59
+1415	1	59
+1426	1	59
+1426	1	59
+.I 60
+.T
+Information Science: What Is It?
+.A
+Borko, H.
+.W
+   In seeking a new sense of identity, we ask, in this article, the question: 
+What is information science? What does the information science do? Tentative 
+answers to these questions are given in the hope of simulating discussion that 
+will help clarify the nature of our field and our work..
+.X
+20	1	60
+22	1	60
+42	1	60
+60	5	60
+85	2	60
+129	1	60
+172	1	60
+272	1	60
+371	1	60
+469	1	60
+574	1	60
+585	1	60
+599	1	60
+640	2	60
+652	1	60
+665	1	60
+762	1	60
+803	1	60
+907	1	60
+1022	2	60
+1045	1	60
+1077	1	60
+1268	1	60
+1309	1	60
+1309	1	60
+.I 61
+.T
+Expected Search Length: A Single Measure of Retrieval Effectiveness
+ Based on the Work Ordering Action of Retrieval Systems
+.A
+Cooper, William S.
+.W
+   A measure of document retrieval system performance called the "expected 
+search length reduction factor" is defined and compared with indicators, such 
+as precision and recall, that have been suggested by other workers.. The new 
+measure is based on calculations of the expected number of irrelevant documents
+in the collection which would have to be searched through before the desired 
+number of relevant documents could be found.. Its advantages are: (1) it 
+provides  a single index of the property it attempts to measure; (2) it allows
+for gradations of retrieval status, through the mathematical concept of a "weak 
+ordering"; (3) it evaluates retrieval performance relative to random searching;
+and (4) it takes into account the amount of relevant material desired by the 
+requester..
+.X
+44	1	61
+45	1	61
+51	1	61
+52	1	61
+57	1	61
+61	14	61
+62	1	61
+67	2	61
+70	1	61
+71	1	61
+72	1	61
+73	2	61
+114	1	61
+135	1	61
+144	1	61
+149	1	61
+175	3	61
+176	1	61
+206	1	61
+207	1	61
+208	1	61
+274	1	61
+320	1	61
+382	1	61
+389	1	61
+390	1	61
+419	1	61
+455	1	61
+458	3	61
+459	1	61
+481	1	61
+483	1	61
+485	1	61
+491	1	61
+526	1	61
+546	1	61
+565	2	61
+577	1	61
+579	1	61
+606	1	61
+626	1	61
+644	1	61
+660	1	61
+662	1	61
+664	1	61
+676	1	61
+745	1	61
+754	1	61
+779	1	61
+780	1	61
+814	1	61
+826	1	61
+907	1	61
+981	1	61
+982	1	61
+1035	1	61
+1154	1	61
+1187	1	61
+1255	3	61
+1268	1	61
+1286	1	61
+1327	1	61
+1358	1	61
+1380	1	61
+1402	1	61
+1410	1	61
+1416	1	61
+1417	1	61
+1417	1	61
+.I 62
+.T
+A Literature Search and File Organization Model
+.A
+Leimkuhler, Ferdinand F.
+.W
+   A principle of sequential optimization in search theory distributes the 
+search effort at each stage so as to maximize the probability of target 
+detection with the effort expended thus far.. As an application of this 
+principle to the search of pertinent items in a literature file, the file items
+should be arranged in decreasing order of the probability that an item will 
+yield the information sought.. Complete ordering in this manner may not be
+feasible, and it is proposed that the files be partially ordered in search 
+zones with some loss in search efficiency.. A model for assessing the relative
+efficiency for partial ordering is developed and used to determine optimal zone 
+sizes under an assumed target distribution pattern.. In this way, trade-off
+between file organization effort and search effort can be meaningfully 
+evaluated.. A representative target distribution function for search literature 
+appears to follow the Bradford law of scattering.. This function is used to 
+demonstrate the application of the model over a meaningful range of parameters 
+obtained from empirical studies.. It is shown that a good two-zone search plan
+to scientific literature is one in which 15-20% of the most useful documents 
+are examined first.. Only about one of three searches should have to go on to a 
+search over the remainder of the file..
+.X
+24	1	62
+44	1	62
+61	1	62
+62	10	62
+65	1	62
+66	1	62
+67	2	62
+75	1	62
+76	1	62
+137	1	62
+172	1	62
+175	2	62
+210	1	62
+278	1	62
+279	1	62
+280	1	62
+310	1	62
+316	1	62
+318	1	62
+359	3	62
+360	1	62
+363	1	62
+382	1	62
+386	1	62
+395	1	62
+398	1	62
+409	1	62
+435	1	62
+458	1	62
+462	1	62
+483	1	62
+484	1	62
+567	1	62
+604	1	62
+658	1	62
+716	1	62
+737	1	62
+748	1	62
+751	1	62
+765	2	62
+778	3	62
+779	1	62
+782	1	62
+788	1	62
+789	1	62
+837	1	62
+853	1	62
+875	1	62
+883	1	62
+893	1	62
+907	1	62
+925	1	62
+1083	1	62
+1085	1	62
+1173	1	62
+1184	1	62
+1187	2	62
+1219	1	62
+1268	1	62
+1274	1	62
+1361	1	62
+1400	1	62
+1404	1	62
+1416	1	62
+1417	2	62
+1418	1	62
+1419	1	62
+1426	1	62
+1426	1	62
+.I 63
+.T
+The Publication Inflation
+.A
+London, Gertrude
+.W
+   The much-vaunted information explosion seems to be the manifestation of a 
+rather generalized publication inflation.. Multipublication and pretentious
+writing have become obstacles to "communication between human minds". To 
+counteract their harmful effects it will be necessary to reduce the quantity 
+and improve the quality of the printed records by filtering the material before 
+it is stored for retrieval..
+.X
+37	2	63
+59	1	63
+63	7	63
+166	1	63
+175	2	63
+348	1	63
+355	1	63
+389	1	63
+390	1	63
+481	1	63
+482	1	63
+487	1	63
+502	1	63
+579	1	63
+596	1	63
+600	1	63
+601	1	63
+717	1	63
+718	1	63
+719	1	63
+799	1	63
+805	1	63
+807	1	63
+863	1	63
+864	1	63
+907	1	63
+956	1	63
+963	1	63
+980	1	63
+987	1	63
+988	1	63
+989	1	63
+1030	1	63
+1042	1	63
+1051	1	63
+1115	1	63
+1152	1	63
+1265	1	63
+1294	1	63
+1327	1	63
+1330	1	63
+1410	1	63
+1415	1	63
+1426	1	63
+1446	2	63
+1447	1	63
+1447	1	63
+.I 64
+.T
+A Computer-Based Serials Control System for a Large Biomedical Library
+.A
+Roper, Fred W.
+.W
+   Rather than reiterate the obvious purposes and procedures involved in 
+creating a computer system for control of serials, in this paper the author
+deals with the concept upon which the UCLA system is based and the manner in
+which the system is maintained in day-to-day operations of the UCLA Biomedical
+Library.. The paper deals with some of the points made in an earlier publication
+from the UCLA serials project.. The attempt is to show how the theory of 
+publication pattern (discussed in the earlier article) has been used to 
+produce a different idea in computer control of serials.. Publication pattern 
+information which is entered into the master record for each title causes
+check-in cards for the next expected issue of each title to be generated by the
+computer, regardless of when this text issue is expected - next week, next
+month, next year.. This is departure from most systems, which attempt to 
+predict a certain number of issues which should arrive during a given time 
+period.. The information, which must be a part of the computer record, is 
+described, as are library procedures in maintaining the system..
+.X
+64	6	64
+175	1	64
+200	2	64
+245	1	64
+374	1	64
+717	1	64
+781	1	64
+783	1	64
+834	1	64
+835	1	64
+848	1	64
+849	1	64
+850	1	64
+851	1	64
+852	1	64
+922	1	64
+925	1	64
+979	1	64
+981	1	64
+982	1	64
+1042	1	64
+1051	1	64
+1415	1	64
+1415	1	64
+.I 65
+.T
+A Study of Searching the Eye Research Literature
+.A
+Miller, Russell R.
+.W
+   The paper is a report of most of the major findings of a study in searching
+the periodical eye research literature.. Questions were collected from eye 
+researchers and a selected group of these were searched in nine different 
+secondary sources.. Articles thought to be relevant were Xeroxed and sent to 
+the eye researchers who subsequently rated the articles.. Articles of eye
+research interest are found in a wide variety of journals, but a small number
+of journals carry a large proportion of the articles judged valuable by the eye
+researchers.. Approximately a fourth of eye research articles are in foreign 
+languages.. Translations are not readily available.. Despite a delay of more 
+than 15 month between the original appearance of article in journals and the 
+mailing of photocopies, about half of the articles of interest to the 
+researchers were not known to them previously.. For extensive retrospective
+searches more than one secondary service must be used.. Index Medicus and 
+Excerpta Medica (Section 12) or Ophthalmic Literature would be good sources..
+MEDLARS demand searches were not shown to be clearly superior to manual 
+searches of Index Medicus.. Titles, abstracts, and full text were shown to be
+equally effective in permitting searches to retrieve references that were
+subsequently rated as relevant by the researchers.. A searcher with a background
+in ophthalmology was able to retrieve more articles of research interest than 
+other non-ophthalmologist searchers..
+.X
+4	1	65
+24	1	65
+43	1	65
+47	1	65
+50	1	65
+62	1	65
+65	5	65
+66	1	65
+75	3	65
+76	2	65
+137	1	65
+156	1	65
+162	1	65
+210	1	65
+213	1	65
+214	1	65
+278	1	65
+279	1	65
+280	1	65
+382	1	65
+386	1	65
+395	1	65
+398	1	65
+495	1	65
+580	1	65
+586	1	65
+622	1	65
+658	1	65
+696	1	65
+705	1	65
+716	1	65
+728	1	65
+729	1	65
+748	1	65
+770	1	65
+776	2	65
+778	1	65
+779	1	65
+782	1	65
+788	1	65
+789	1	65
+790	1	65
+791	1	65
+837	1	65
+925	1	65
+958	1	65
+981	1	65
+1055	1	65
+1083	2	65
+1086	1	65
+1295	1	65
+1297	1	65
+1361	1	65
+1400	1	65
+1404	1	65
+1404	1	65
+.I 66
+.T
+Psychology and Information
+.A
+Miller, George A.
+.W
+   An aspect of the human use of information that has generally been overlooked 
+in the automation in information services is the human tendency to locate 
+information spatially.. Computer-based systems do not necessarily assign any 
+unique role to spatial tags, and so a feature of considerable importance for 
+the organization of the user's memory seems to have been largely overlooked..
+The spatial dimension of human memory is discussed, and some suggestions are 
+offered for exploiting it more effectively in the context of information 
+retrieval services..
+.X
+13	1	66
+24	1	66
+29	1	66
+58	1	66
+62	1	66
+65	1	66
+66	7	66
+75	2	66
+76	1	66
+137	1	66
+152	1	66
+197	1	66
+210	1	66
+211	1	66
+218	1	66
+274	1	66
+278	1	66
+279	1	66
+280	1	66
+332	1	66
+350	1	66
+386	1	66
+395	1	66
+398	1	66
+451	1	66
+455	1	66
+475	1	66
+546	1	66
+586	1	66
+593	1	66
+594	1	66
+606	1	66
+658	1	66
+664	1	66
+716	1	66
+748	1	66
+782	1	66
+783	1	66
+788	1	66
+789	1	66
+837	2	66
+839	1	66
+907	1	66
+925	1	66
+967	1	66
+968	1	66
+1035	2	66
+1083	1	66
+1094	1	66
+1213	1	66
+1361	1	66
+1400	1	66
+1404	1	66
+1404	1	66
+.I 67
+.T
+The Use of Simulation in Studying Information Storage and Retrieval Systems
+.A
+Baker, Norman R.
+.A
+Nance, Richard E.
+.W
+   Previous applications of simulation to information storage and retrieval 
+systems (ISRS) have been overly restrictive in their scope and have failed to
+consider the environment within which such systems operate.. This paper 
+considers the ISRS as a subsystem within a larger system which includes the 
+users and the funders of the retrieval system.. The three components form a 
+closed-loop information feedback system in which user response influences both 
+the funding and operation of the ISRS as it attempts to satisfy user needs 
+within a finite budget allocation.. Reward-cost theory provides the basis for
+describing user behavior.. An industrial dynamics model has been developed to 
+simulate ISRS/user/funder behavior where a university departmental library is 
+the ISRS component.. The results which such an analysis can produce are 
+discussed..
+.X
+27	1	67
+39	1	67
+61	2	67
+62	2	67
+67	5	67
+70	1	67
+71	1	67
+72	1	67
+73	1	67
+83	1	67
+120	1	67
+135	1	67
+175	1	67
+206	1	67
+207	1	67
+208	1	67
+211	1	67
+292	1	67
+382	1	67
+435	1	67
+458	1	67
+481	1	67
+483	1	67
+485	1	67
+584	1	67
+779	1	67
+780	1	67
+981	1	67
+982	1	67
+1184	1	67
+1187	3	67
+1358	1	67
+1402	1	67
+1410	1	67
+1416	1	67
+1417	2	67
+1417	2	67
+.I 68
+.T
+Retrieval of Answer-Providing Documents
+.A
+O'Connor, John
+.W
+   (I) Better understanding of subject document retrieval might result if 
+different functions of subject document retrieval system are studied 
+separately.. This paper is concerned with retrieval of documents, in response 
+to a question, from which answers to that question can be inferred 
+("answer-providing documents").. "Answer can be inferred from document" has 
+many possible meanings, one of which must be selected (an "inference 
+specification").. Inasmuch as scientists in a field disagree about the 
+correctness of inferences, have somewhat different background knowledge, etc., 
+any inference specification can only approximate scientific inference 
+practices.. Two sources of systematic knowledge of document-statement inference 
+practices in a scientific field are described.. (II) If a content word occurs 
+in a question, then it occurs in any answer to that question (with some 
+apparently tractable exceptions).. An indexing procedure based on that fact is
+described which would permit retrieval of all answer-providing documents for a 
+question.. However, because the indexing is "nonrelational", it could cause 
+false retrievals as well.. Various ways of dealing with such false retrievals 
+are   briefly indicated, and a study is sketched that would provide data for 
+helping selection among them.. Two special point concerning indexing for 
+retrieval of answer-providing documents are discussed separately..
+.X
+29	1	68
+58	4	68
+68	7	68
+69	1	68
+77	1	68
+78	1	68
+79	1	68
+84	3	68
+117	1	68
+175	2	68
+261	1	68
+346	1	68
+382	1	68
+420	1	68
+458	1	68
+476	1	68
+477	1	68
+478	1	68
+479	1	68
+480	1	68
+484	1	68
+485	1	68
+566	1	68
+571	1	68
+590	1	68
+595	1	68
+680	1	68
+683	1	68
+689	1	68
+704	1	68
+781	1	68
+790	1	68
+1118	2	68
+1124	1	68
+1131	1	68
+1175	1	68
+1382	1	68
+1382	1	68
+.I 69
+.T
+Statistical Generation of a Technical Vocabulary
+.A
+Stone, D. C.
+.W
+   The results of an experiment in the use of statistical techniques for 
+extracting a technical vocabulary from document texts are presented and 
+discussed..
+.X
+29	1	69
+51	2	69
+68	1	69
+69	5	69
+71	1	69
+77	1	69
+79	2	69
+168	2	69
+175	2	69
+176	1	69
+261	1	69
+315	1	69
+324	1	69
+346	1	69
+382	2	69
+441	1	69
+448	1	69
+458	1	69
+476	1	69
+477	1	69
+478	1	69
+479	2	69
+480	2	69
+483	1	69
+484	2	69
+485	1	69
+486	1	69
+488	1	69
+491	1	69
+493	1	69
+503	1	69
+507	1	69
+509	1	69
+510	1	69
+512	1	69
+517	1	69
+520	1	69
+522	1	69
+527	1	69
+528	1	69
+531	1	69
+558	1	69
+565	1	69
+566	3	69
+577	1	69
+581	1	69
+596	1	69
+603	1	69
+608	1	69
+633	1	69
+659	1	69
+660	1	69
+662	1	69
+680	1	69
+704	1	69
+715	1	69
+754	1	69
+780	1	69
+781	1	69
+790	1	69
+805	1	69
+809	1	69
+810	1	69
+812	1	69
+813	1	69
+814	1	69
+817	1	69
+824	1	69
+825	1	69
+894	1	69
+1051	1	69
+1118	1	69
+1175	1	69
+1282	1	69
+1294	2	69
+1327	1	69
+1419	1	69
+1427	1	69
+1427	1	69
+.I 70
+.T
+On Understanding User Choices: Textual Correlates of Relevance Judgements
+.A
+Gifford, Carolyn
+.A
+Baumanis, George J.
+.W
+   An empirical investigation of the role of documents in relevance judgements
+is reported.. Abstracts previously judged relevant, partially relevant, and 
+nonrelevant to each of 61 questions were compared to see whether textual 
+differences could be found which might reasonably account for the rating 
+differences.. The results of this comparison were fairly clear-cut 
+characterizations in each case of relevant and partially relevant abstracts.. 
+These characterizations were found to be expressible largely as meaningful
+co-occurrences of terms closely related to the question.. It is suggested that 
+the textual bases of user choices may be more understandable than has been 
+supposed..
+.X
+29	1	70
+35	2	70
+42	2	70
+43	2	70
+52	1	70
+58	1	70
+61	1	70
+67	1	70
+70	5	70
+71	1	70
+72	2	70
+73	3	70
+75	1	70
+81	1	70
+84	1	70
+95	1	70
+135	1	70
+149	1	70
+175	1	70
+206	1	70
+207	1	70
+208	1	70
+319	1	70
+382	1	70
+420	1	70
+444	1	70
+445	1	70
+447	1	70
+449	1	70
+458	1	70
+474	2	70
+481	1	70
+483	1	70
+485	1	70
+486	1	70
+532	1	70
+565	1	70
+578	1	70
+582	1	70
+589	1	70
+594	1	70
+595	1	70
+625	1	70
+655	1	70
+656	1	70
+657	1	70
+660	1	70
+762	1	70
+764	1	70
+779	1	70
+780	1	70
+893	1	70
+981	1	70
+982	1	70
+1016	1	70
+1030	1	70
+1045	1	70
+1054	1	70
+1084	1	70
+1154	1	70
+1195	1	70
+1201	1	70
+1232	1	70
+1235	1	70
+1281	2	70
+1285	1	70
+1295	1	70
+1298	1	70
+1358	1	70
+1402	1	70
+1410	1	70
+1417	1	70
+1417	1	70
+.I 71
+.T
+Word-Word Associations in Document Retrieval Systems
+.A
+Lesk, M. E.
+.W
+   The SMART automatic document retrieval system is used to study association 
+procedures for automatic content analysis.. The effect of word frequency and 
+other parameters on the association process is investigated through examination
+of related pairs and through retrieval experiments.. Associated pairs of words
+usually reflect localized word meanings, and true synonyms cannot readily be
+found from first or second order relationships in our document collections.. 
+There is little overlap between word relationships found through associations 
+and those used in thesaurus construction, and the effects of word associations 
+and a thesaurus in retrieval are independent.. The use of associations in 
+retrieval experiments improves not only recall, by permitting new matches 
+between requests and documents, but also precision, by reinforcing existing 
+matches.. In our experiments, the precision effect is responsible for most of 
+the improvement possible with associations.. A properly constructed thesaurus,
+however, offers better performance than statistical association methods..
+.X
+30	1	71
+51	1	71
+61	1	71
+67	1	71
+69	1	71
+70	1	71
+71	6	71
+72	2	71
+73	2	71
+74	1	71
+75	2	71
+77	3	71
+78	2	71
+79	3	71
+80	1	71
+81	2	71
+82	2	71
+83	2	71
+86	1	71
+135	1	71
+153	1	71
+154	1	71
+156	1	71
+168	1	71
+175	3	71
+176	2	71
+206	1	71
+207	1	71
+208	1	71
+211	1	71
+212	2	71
+245	1	71
+247	1	71
+277	1	71
+279	1	71
+280	1	71
+315	1	71
+382	2	71
+389	1	71
+390	1	71
+448	2	71
+458	2	71
+480	1	71
+481	1	71
+483	2	71
+484	1	71
+485	1	71
+486	2	71
+488	3	71
+491	1	71
+493	1	71
+503	1	71
+507	1	71
+509	2	71
+510	1	71
+512	1	71
+517	1	71
+520	1	71
+522	1	71
+527	1	71
+528	1	71
+531	1	71
+565	3	71
+566	1	71
+581	2	71
+596	1	71
+603	1	71
+608	1	71
+633	1	71
+659	2	71
+666	1	71
+715	1	71
+720	1	71
+748	1	71
+754	1	71
+779	1	71
+780	1	71
+785	1	71
+786	1	71
+787	1	71
+788	1	71
+789	1	71
+790	1	71
+791	1	71
+805	1	71
+809	1	71
+810	1	71
+812	1	71
+813	1	71
+814	1	71
+817	1	71
+824	1	71
+825	1	71
+838	1	71
+853	1	71
+894	1	71
+925	1	71
+981	1	71
+982	1	71
+984	1	71
+1051	1	71
+1294	1	71
+1327	1	71
+1358	1	71
+1393	1	71
+1402	1	71
+1410	1	71
+14
+Data Explorer
+Version 1 (2.38 MB)
+
+CISI.ALL
+
+CISI.QRY
+
+CISI.REL
+
+Summary
+3 files
+
+See what others are saying about this dataset
+What have you used this dataset for?
+
+Learning 2
+
+Research 1
+
+Application 3
+
+LLM Fine-Tuning 0
+How would you describe this dataset?
+
+Well-documented 1
+
+Well-maintained 1
+
+Clean data 1
+
+Original 1
+
+High-quality notebooks 1
+
+Other
+Metadata
+
+Expand All
+Collaborators
+Authors
+Coverage
+DOI Citation
+Provenance
+License
+Expected Update Frequency
+Activity Overview
+Views
+35.9K
+date	Views
+Jan 16, 2025	32
+Jan 17, 2025	28
+Jan 18, 2025	26
+Jan 19, 2025	26
+Jan 20, 2025	21
+Jan 21, 2025	30
+Jan 22, 2025	32
+Jan 23, 2025	24
+Jan 24, 2025	18
+Jan 25, 2025	11
+Jan 26, 2025	11
+Jan 27, 2025	20
+Jan 28, 2025	17
+Jan 29, 2025	20
+Jan 30, 2025	15
+Jan 31, 2025	6
+Feb 1, 2025	10
+Feb 2, 2025	2
+Feb 3, 2025	9
+Feb 4, 2025	16
+Feb 5, 2025	19
+Feb 6, 2025	30
+Feb 7, 2025	13
+Feb 8, 2025	2
+Feb 9, 2025	10
+Feb 10, 2025	4
+Feb 11, 2025	40
+Feb 12, 2025	9
+Feb 13, 2025	16
+517
+in the last 30 days
+Downloads
+3441
+date	Downloads
+Jan 16, 2025	1
+Jan 17, 2025	3
+Jan 18, 2025	2
+Jan 19, 2025	8
+Jan 20, 2025	1
+Jan 22, 2025	1
+Jan 23, 2025	2
+Jan 26, 2025	1
+Jan 27, 2025	4
+Jan 28, 2025	1
+Jan 29, 2025	2
+Feb 1, 2025	3
+Feb 6, 2025	4
+Feb 7, 2025	1
+Feb 9, 2025	2
+Feb 11, 2025	6
+Feb 13, 2025	1
+43
+in the last 30 days
+Engagement
+0.09582
+downloads per view
+Comments
+1
+posted
+Top Contributors
+Detail View
+Views
+[object Object]
+01/20
+01/27
+02/03
+02/10
+0
+20
+40
+date	Views
+Jan 16, 2025	32
+Jan 17, 2025	28
+Jan 18, 2025	26
+Jan 19, 2025	26
+Jan 20, 2025	21
+Jan 21, 2025	30
+Jan 22, 2025	32
+Jan 23, 2025	24
+Jan 24, 2025	18
+Jan 25, 2025	11
+Jan 26, 2025	11
+Jan 27, 2025	20
+Jan 28, 2025	17
+Jan 29, 2025	20
+Jan 30, 2025	15
+Jan 31, 2025	6
+Feb 1, 2025	10
+Feb 2, 2025	2
+Feb 3, 2025	9
+Feb 4, 2025	16
+Feb 5, 2025	19
+Feb 6, 2025	30
+Feb 7, 2025	13
+Feb 8, 2025	2
+Feb 9, 2025	10
+Feb 10, 2025	4
+Feb 11, 2025	40
+Feb 12, 2025	9
+Feb 13, 2025	16
+Downloads
+[object Object]
+01/20
+01/27
+02/03
+02/10
+0
+5
+10
+date	Downloads
+Jan 16, 2025	1
+Jan 17, 2025	3
+Jan 18, 2025	2
+Jan 19, 2025	8
+Jan 20, 2025	1
+Jan 22, 2025	1
+Jan 23, 2025	2
+Jan 26, 2025	1
+Jan 27, 2025	4
+Jan 28, 2025	1
+Jan 29, 2025	2
+Feb 1, 2025	3
+Feb 6, 2025	4
+Feb 7, 2025	1
+Feb 9, 2025	2
+Feb 11, 2025	6
+Feb 13, 2025	1
+Related Notebooks
+cisi.txt
+Displaying cisi.txt.
